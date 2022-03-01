@@ -1,49 +1,58 @@
 ---
-title: Manuscript Title
+title: '(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021'
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-02-28'
+date-meta: '2022-03-01'
 author-meta:
-- John Doe
-- Jane Roe
+- Elizaebth Case
+- Jonny Kingslake
+- Daniel McGrath
+- Simeon Caskey
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2022-02-28" />
-  <meta name="citation_publication_date" content="2022-02-28" />
+  <meta name="dc.title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
+  <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
+  <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
+  <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
+  <meta name="dc.date" content="2022-03-01" />
+  <meta name="citation_publication_date" content="2022-03-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Elizaebth Case" />
+  <meta name="citation_author_institution" content="Department of Earth and Environmental Sciences, Columbia University" />
+  <meta name="citation_author_institution" content="Lamont-Doherty Earth Observatory" />
+  <meta name="citation_author_orcid" content="0000-0002-8169-0343" />
+  <meta name="twitter:creator" content="@elizabeth_case" />
+  <meta name="citation_author" content="Jonny Kingslake" />
+  <meta name="citation_author_institution" content="Department of Earth and Environmental Sciences, Columbia University" />
+  <meta name="citation_author_institution" content="Lamont-Doherty Earth Observatory" />
+  <meta name="citation_author_orcid" content="0000-0002-6854-8422" />
+  <meta name="citation_author" content="Daniel McGrath" />
+  <meta name="citation_author_institution" content="Department of Geosciences, Colorado State University" />
+  <meta name="citation_author_orcid" content="0000-0002-9462-6842" />
+  <meta name="citation_author" content="Simeon Caskey" />
+  <meta name="citation_author_institution" content="Physical Science Branch Chief, Grand Teton National Park" />
+  <meta name="citation_author_orcid" content="None" />
   <link rel="canonical" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta property="og:url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta property="twitter:url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/2a2077b8eff6f703fc1abbebee1064333f016616/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/2a2077b8eff6f703fc1abbebee1064333f016616/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/2a2077b8eff6f703fc1abbebee1064333f016616/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,40 +74,56 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/2a2077b8eff6f703fc1abbebee1064333f016616/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@9a22fab](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/9a22fab4497f80f501ea361d028f26888ad9d5a0)
-on February 28, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@2a2077b](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/2a2077b8eff6f703fc1abbebee1064333f016616)
+on March 1, 2022.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Elizaebth Case**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-8169-0343](https://orcid.org/0000-0002-8169-0343)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [elizabethcase](https://github.com/elizabethcase)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [elizabeth_case](https://twitter.com/elizabeth_case)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Earth and Environmental Sciences, Columbia University; Lamont-Doherty Earth Observatory
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Jonny Kingslake**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-6854-8422](https://orcid.org/0000-0002-6854-8422)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)<br>
+    [jkingslake](https://github.com/jkingslake)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Earth and Environmental Sciences, Columbia University; Lamont-Doherty Earth Observatory
+  </small>
+
++ **Daniel McGrath**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-9462-6842](https://orcid.org/0000-0002-9462-6842)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [danielmcgrathCSU](https://github.com/danielmcgrathCSU)<br>
+  <small>
+     Department of Geosciences, Colorado State University
+  </small>
+
++ **Simeon Caskey**<br><br>
+  <small>
+     Physical Science Branch Chief, Grand Teton National Park
   </small>
 
 
 
 ## Abstract {.page_break_before}
+
+Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012, in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
 
 
 

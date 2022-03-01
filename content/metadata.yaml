@@ -1,26 +1,41 @@
 ---
-title: "Manuscript Title"
+title: "(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: elizabethcase
+    name: Elizaebth Case
+    initials: EC
+    orcid: 0000-0002-8169-0343
+    twitter: elizabeth_case
+    email: ehc2150@columbia.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Earth and Environmental Sciences, Columbia University
+      - Lamont-Doherty Earth Observatory
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+  - github: jkingslake
+    name: Jonny Kingslake
+    initials: JK
+    orcid: 0000-0002-6854-8422
+    email: jkingslake@columbia.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Earth and Environmental Sciences, Columbia University
+      - Lamont-Doherty Earth Observatory
+  - github: danielmcgrathCSU
+    name: Daniel McGrath
+    initials: DM
+    orcid: 0000-0002-9462-6842
+    email: daniel.mcgrath@colostate.edu
+    affiliations:
+      - Department of Geosciences, Colorado State University
+  - github:
+    name: Simeon Caskey
+    initials: SC
+    orcid:
+    email:
+    affiliations:
+      - Physical Science Branch Chief, Grand Teton National Park

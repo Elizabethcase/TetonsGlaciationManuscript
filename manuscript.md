@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9719bb16d5b1112b04f32505fbc66fe00a63641/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9719bb16d5b1112b04f32505fbc66fe00a63641/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9719bb16d5b1112b04f32505fbc66fe00a63641/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9719bb16d5b1112b04f32505fbc66fe00a63641/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@a9719bb](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/a9719bb16d5b1112b04f32505fbc66fe00a63641)
+from [Elizabethcase/TetonsGlaciationManuscript@e7e3453](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384)
 on March 2, 2022.
 </em></small>
 
@@ -126,6 +126,72 @@ on March 2, 2022.
 Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
 
 
+
+
+## Introduction.{page_break_before}
+
+The Teton Range's iconic landscape of jagged peaks and classic U-shaped valleys has been carved out of stone by glaciers over many thousands of years.
+The range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. 
+This study investigates the de-glaciation of the 11 named glaciers in the park from the Little Ice Age to 2021.
+
+1. Little Ice Age
+While most of the sculptural work was completed over the last two ice ages ==cite==, the Little Ice Age (1300-1850), a period of cooling in the northern hemisphere, left its mark on the landscape. 
+Terminal and lateral moraines delineate the park's remaining glaciers, which subsist on and in north and east facing walls and valleys scattered throughout the park.
+
+2. Glacial change 1950-present day
+- natural climate cycle
+- anthropogenic influences
+- climate vs topography
+
+3. Distinguishing 
+
+Relevance
+- impact
+
+
+
+
+
+## Little Ice Age Glacier Identification
+
+Little Ice Age moraines were digitized primarily from 2014 LiDAR imagery ==cite== with a hillshade applied (QGIS).
+These data were corroborated and augmented by ==year== National Agricultural Inventory Program (NAIP) aerial imagery and ==add data refs==. 
+We follow the methods outlined in Martin-Mikle 2019 [@doi:10.1080/15230430.2019.1634443], delimiting the LIA location and size of glaciers from the presence of a terminal moraine, the presence of lateral moraines, and a size requirement of 0.01 km^2. 
+==add note about trimlines, etc==
+
+> The criteria used for identifying the former size and location of glaciers were (1) the presence of a terminal moraine; (2) the presence of lateral moraines; and (3) whether the identified glacier area exceeded 0.01 km2. A potential glacier was not omitted if it failed to meet both of the first two criteria (i.e., a LIA glacier that terminated at a cliff with well-defined lateral moraines but no discernible terminal moraine).
+[[@martin-mikleGlacierRecessionLittle2019]]
+
+We used GLARE [@doi:10/f827s2] to... VOLTA[@doi:10/f8rdwd], which employs an augmented slab model, was used to remove ice to determine full extent... corroborated by comparing ice thickness between glaciers that have completely disappeared and those that remain... 
+
+## Change in Aerial Extent
+
+## Digital Elevation Model timeseries
+
+Digital Elevation Models were generated using 
+
+## In-Situ Data
+### Surface Elevation Surveys
+### Ablation Stake Surveys
+### Seasonal timelapse imagery
+### Ground-penetrating radar
+
+## Ice-slab model to generate approximate ice thicknesses
+
+
+
+
+
+## Results
+
+## Conclusions
+
+
+
+## References {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
@@ -422,11 +488,3 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
-
-
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>

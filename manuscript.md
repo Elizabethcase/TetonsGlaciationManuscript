@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/275c6efe284d16aa1e61e0d948398b0038ca6d92/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/275c6efe284d16aa1e61e0d948398b0038ca6d92/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/275c6efe284d16aa1e61e0d948398b0038ca6d92/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c55f5a2f6ea4c295107bc58352013d9614a73cc0/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c55f5a2f6ea4c295107bc58352013d9614a73cc0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c55f5a2f6ea4c295107bc58352013d9614a73cc0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/275c6efe284d16aa1e61e0d948398b0038ca6d92/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c55f5a2f6ea4c295107bc58352013d9614a73cc0/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@275c6ef](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/275c6efe284d16aa1e61e0d948398b0038ca6d92)
+from [Elizabethcase/TetonsGlaciationManuscript@c55f5a2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/c55f5a2f6ea4c295107bc58352013d9614a73cc0)
 on March 2, 2022.
 </em></small>
 
@@ -123,7 +123,7 @@ on March 2, 2022.
 
 ## Abstract {.page_break_before}
 
-Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10/bxswd8], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
+Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
 
 
 

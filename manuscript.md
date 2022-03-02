@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@e7e3453](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/e7e34538c0f6f6fce393c3b2f6e449bfcaab7384)
+from [Elizabethcase/TetonsGlaciationManuscript@dd5c9f9](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7)
 on March 2, 2022.
 </em></small>
 
@@ -126,6 +126,7 @@ on March 2, 2022.
 Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
 
 
+Test edit - JK
 
 
 ## Introduction.{page_break_before}

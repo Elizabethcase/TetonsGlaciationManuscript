@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@dd5c9f9](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/dd5c9f9b9001b7cf822ae3ecc4d8356749431df7)
+from [Elizabethcase/TetonsGlaciationManuscript@7ccaa92](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6)
 on March 2, 2022.
 </em></small>
 
@@ -127,6 +127,11 @@ Glaciers are responsible for some of the Teton Range’s most iconic features, a
 
 
 Test edit - JK
+
+
+
+
+Another edit, this time its on my local machine in a branch of the original repo (i.e. not a forked version). I made the branch in the github website.
 
 
 ## Introduction.{page_break_before}

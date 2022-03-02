@@ -58,6 +58,7 @@ proident
 QGIS
 qui
 quis
+repo
 reprehenderit
 sed
 Simeon

@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dcda3926509de8836c2861acfb7971fa518b6544/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dcda3926509de8836c2861acfb7971fa518b6544/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dcda3926509de8836c2861acfb7971fa518b6544/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6777f35ec7ff4c5b1f49fe484b7199dd5ef13d3e/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6777f35ec7ff4c5b1f49fe484b7199dd5ef13d3e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6777f35ec7ff4c5b1f49fe484b7199dd5ef13d3e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/dcda3926509de8836c2861acfb7971fa518b6544/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6777f35ec7ff4c5b1f49fe484b7199dd5ef13d3e/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@dcda392](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/dcda3926509de8836c2861acfb7971fa518b6544)
+from [Elizabethcase/TetonsGlaciationManuscript@6777f35](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/6777f35ec7ff4c5b1f49fe484b7199dd5ef13d3e)
 on March 3, 2022.
 </em></small>
 
@@ -156,6 +156,7 @@ Relevance
 
 Making a change to see how it shows up on contributor repo
 Adding some more text to practice pulling to contributor repo.
+now what happens if i create an conflict.
 
 
 

@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3ce375a2aae1d99f287e36d80c6bf085e11eec12/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3ce375a2aae1d99f287e36d80c6bf085e11eec12/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3ce375a2aae1d99f287e36d80c6bf085e11eec12/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3ce375a2aae1d99f287e36d80c6bf085e11eec12/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@1daa0d2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/1daa0d25b4bb1bb3b062488812f6685027441ab8)
+from [Elizabethcase/TetonsGlaciationManuscript@3ce375a](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/3ce375a2aae1d99f287e36d80c6bf085e11eec12)
 on March 3, 2022.
 </em></small>
 
@@ -154,7 +154,6 @@ Terminal and lateral moraines delineate the park's remaining glaciers, which sub
 Relevance
 - impact
 
-testing after forking repo
 
 
 

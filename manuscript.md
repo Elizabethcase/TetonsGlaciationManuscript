@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4f0894f56797a0a6e8da909a7ee1bb42dff82147/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4f0894f56797a0a6e8da909a7ee1bb42dff82147/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4f0894f56797a0a6e8da909a7ee1bb42dff82147/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c0ccc2d39ba161b20e6abffe81d8b59fe92e05e/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c0ccc2d39ba161b20e6abffe81d8b59fe92e05e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c0ccc2d39ba161b20e6abffe81d8b59fe92e05e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4f0894f56797a0a6e8da909a7ee1bb42dff82147/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c0ccc2d39ba161b20e6abffe81d8b59fe92e05e/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@4f0894f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/4f0894f56797a0a6e8da909a7ee1bb42dff82147)
+from [Elizabethcase/TetonsGlaciationManuscript@4c0ccc2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/4c0ccc2d39ba161b20e6abffe81d8b59fe92e05e)
 on March 3, 2022.
 </em></small>
 
@@ -498,3 +498,6 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+creating file for folks to learn how to comment, fork, make changes.

@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-03-02'
+date-meta: '2022-03-03'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-03-02" />
-  <meta name="citation_publication_date" content="2022-03-02" />
+  <meta name="dc.date" content="2022-03-03" />
+  <meta name="citation_publication_date" content="2022-03-03" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/1daa0d25b4bb1bb3b062488812f6685027441ab8/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@7ccaa92](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/7ccaa923e26ed1d626bb1f71d0401324ff1d5ee6)
-on March 2, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@1daa0d2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/1daa0d25b4bb1bb3b062488812f6685027441ab8)
+on March 3, 2022.
 </em></small>
 
 ## Authors
@@ -154,6 +154,7 @@ Terminal and lateral moraines delineate the park's remaining glaciers, which sub
 Relevance
 - impact
 
+testing after forking repo
 
 
 

@@ -12,6 +12,7 @@ content/01.abstract.md:11:repo
 content/20.introduction.md:3:Teton
 content/20.introduction.md:4:Teton
 content/20.introduction.md:13:anthropogenic
+content/30.methods.md:1:repo
 content/32.LIA-mapping.md:3:hillshade
 content/32.LIA-mapping.md:3:LiDAR
 content/32.LIA-mapping.md:3:QGIS

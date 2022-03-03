@@ -26,6 +26,8 @@ content/34.dem-generation.md:1:timeseries
 content/35.in-situ-data.md:1:Situ
 content/35.in-situ-data.md:4:timelapse
 content/999.testing.md:3:repo
+content/999.testing.md:5:repo
+content/999.testing.md:7:repo
 content/99.sample-script.md:44:adipiscing
 content/99.sample-script.md:44:aliqua
 content/99.sample-script.md:44:amet

@@ -205,7 +205,7 @@ Therefore, Manubot supports user-provided metadata, which we refer to as "manual
 When a manual reference is provided, Manubot uses the supplied metadata and does not attempt to generate it.
 
 Manubot searches the `content` directory for files that match the glob pattern `manual-references*.*` and expects that these files contain manual references.
-[`content/manual-references.json`](content/manual-references.json) is the default file to specify custom CSL JSON metadata.
+[`content/manual-references.json`](manual-references.json) is the default file to specify custom CSL JSON metadata.
 Manual references are matched to citations using their "id" field.
 For example, to manually specify the metadata for the citation `@https://github.com/manubot/rootstock`, add a CSL JSON Item to `manual-references.json` that contains the following excerpt:
 
@@ -244,10 +244,10 @@ One tip is to embed the date `references.json` was generated into the frozen man
 
 ## Manuscript metadata
 
-[`content/metadata.yaml`](content/metadata.yaml) contains manuscript metadata that gets passed through to Pandoc, via a [`yaml_metadata_block`](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block).
+[`content/metadata.yaml`](metadata.yaml) contains manuscript metadata that gets passed through to Pandoc, via a [`yaml_metadata_block`](https://pandoc.org/MANUAL.html#extension-yaml_metadata_block).
 `metadata.yaml` should contain the manuscript `title`, `authors` list, `keywords`, and `lang` ([language tag](https://www.w3.org/International/articles/language-tags/ "W3C: Language tags in HTML and XML")).
 Additional metadata, such as `date`, will automatically be created by the Manubot.
-Manubot uses the [timezone](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) specified in [`build.sh`](build/build.sh) for setting the manuscript's date.
+Manubot uses the [timezone](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) specified in [`build.sh`](build.sh) for setting the manuscript's date.
 For example, setting the `TZ` environment variable to `Etc/UTC` directs the Manubot to use Coordinated Universal Time.
 
 We recommend authors add themselves to `metadata.yaml` via pull request (when requested by a maintainer), thereby signaling that they've read and approved the manuscript.
@@ -293,12 +293,12 @@ Key points are that thumbnails should be 1000 × 1000 pixels, PNG formatted, and
 
 ## Custom formatting
 
-Modifying the manuscript formatting requires modifying the CSS in the file [`build/themes/default.html`](build/themes/default.html).
+Modifying the manuscript formatting requires modifying the CSS in the file [`build/themes/default.html`](_phd/projects/Tetons/TetonsGlaciationManuscript/build/themes/default.html).
 Common formatting changes, such as [font size](https://github.com/manubot/rootstock/issues/239) and [double spacing](https://github.com/manubot/rootstock/issues/244), can be found by searching the [Rootstock issues](https://github.com/manubot/rootstock/issues).
 Open a [new issue](https://github.com/manubot/rootstock/issues/new) if you have a new formatting question.
 
 Changing the citation style or which interactive HTML plugins are loaded requires editing the options specified by Pandoc defaults files in [`build/pandoc/defaults`](build/pandoc/defaults).
-The citation style is determined by the Citation Style Language file specified in [`common.yaml`](build/pandoc/defaults/common.yaml):
+The citation style is determined by the Citation Style Language file specified in [`common.yaml`](common.yaml):
 
 ```yaml
 metadata:

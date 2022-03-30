@@ -256,7 +256,7 @@ git push origin main
 ```
 
 You should be good to go now.
-A good first step is to modify [`content/metadata.yaml`](content/metadata.yaml) with the relevant information for your manuscript.
+A good first step is to modify [`content/metadata.yaml`](metadata.yaml) with the relevant information for your manuscript.
 
 # Merging upstream rootstock changes
 
@@ -294,7 +294,7 @@ When there are no longer any unstaged changes, then do `git commit`.
 If updating your default branch (i.e. `main` or `master`) via a pull request, proceed to push the commit to GitHub and open a pull request.
 Once the pull request is ready to merge, use GitHub's "Create a merge commit" option rather than "Squash and merge" or "Rebase and merge" to preserve the rootstock commit hashes.
 
-The environment for local builds does not automatically update when [`build/environment.yml`](build/environment.yml) changes.
+The environment for local builds does not automatically update when [`build/environment.yml`](environment.yml) changes.
 To update your local conda `manubot` environment with new changes, run:
 
 ```shell

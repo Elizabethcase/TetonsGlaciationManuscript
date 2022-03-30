@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-03-03'
+date-meta: '2022-03-30'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-03-03" />
-  <meta name="citation_publication_date" content="2022-03-03" />
+  <meta name="dc.date" content="2022-03-30" />
+  <meta name="citation_publication_date" content="2022-03-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f930b9fd7f723265211e57f1e5c1a3bdaa326eb9/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f930b9fd7f723265211e57f1e5c1a3bdaa326eb9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f930b9fd7f723265211e57f1e5c1a3bdaa326eb9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f930b9fd7f723265211e57f1e5c1a3bdaa326eb9/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@f930b9f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/f930b9fd7f723265211e57f1e5c1a3bdaa326eb9)
-on March 3, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@d2196ac](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/d2196ac375ef1dcbd3088d9135bc2b915d58f820)
+on March 30, 2022.
 </em></small>
 
 ## Authors
@@ -85,11 +85,11 @@ on March 3, 2022.
 
 
 + **Elizaebth Case**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    ![ORCID icon](orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-8169-0343](https://orcid.org/0000-0002-8169-0343)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![GitHub icon](github.svg){.inline_icon width=16 height=16}
     [elizabethcase](https://github.com/elizabethcase)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    · ![Twitter icon](_phd/projects/Tetons/TetonsGlaciationManuscript/content/images/twitter.svg){.inline_icon width=16 height=16}
     [elizabeth_case](https://twitter.com/elizabeth_case)<br>
   <small>
      Department of Earth and Environmental Sciences, Columbia University; Lamont-Doherty Earth Observatory
@@ -97,18 +97,18 @@ on March 3, 2022.
   </small>
 
 + **Jonny Kingslake**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    ![ORCID icon](orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-6854-8422](https://orcid.org/0000-0002-6854-8422)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![GitHub icon](github.svg){.inline_icon width=16 height=16}
     [jkingslake](https://github.com/jkingslake)<br>
   <small>
      Department of Earth and Environmental Sciences, Columbia University; Lamont-Doherty Earth Observatory
   </small>
 
 + **Daniel McGrath**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    ![ORCID icon](orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-9462-6842](https://orcid.org/0000-0002-9462-6842)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![GitHub icon](github.svg){.inline_icon width=16 height=16}
     [danielmcgrathCSU](https://github.com/danielmcgrathCSU)<br>
   <small>
      Department of Geosciences, Colorado State University
@@ -123,7 +123,7 @@ on March 3, 2022.
 
 ## Abstract {.page_break_before}
 
-Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors.
+Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors. 
 
 
 Test edit - JK
@@ -136,10 +136,9 @@ Another edit, this time its on my local machine in a branch of the original repo
 
 ## Introduction.{page_break_before}
 
-The Teton Range's iconic landscape of jagged peaks and classic U-shaped valleys has been carved out of stone by glaciers over many thousands of years.
-The range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. 
-This study investigates the de-glaciation of the 11 named glaciers in the park from the Little Ice Age to 2021.
+The Teton Range's iconic landscape of jagged peaks and classic U-shaped valleys has been carved out of stone by glaciers over many thousands of years. The range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021. 
 
+Isotopic dating has been used on the moraine 
 1. Little Ice Age
 While most of the sculptural work was completed over the last two ice ages ==cite==, the Little Ice Age (1300-1850), a period of cooling in the northern hemisphere, left its mark on the landscape. 
 Terminal and lateral moraines delineate the park's remaining glaciers, which subsist on and in north and east facing walls and valleys scattered throughout the park.
@@ -154,37 +153,48 @@ Terminal and lateral moraines delineate the park's remaining glaciers, which sub
 Relevance
 - impact
 
-Making a change to see how it shows up on contributor repo
-Adding some more text to practice pulling to contributor repo.
-now what happens if i create an conflict.
+This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. Little Ice Age moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate current ice volume in the landscape. 
 
 
+The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful? dozens? of permanent snow and icefields. About forty miles long and ten miles across, the mountain range is an (ecological? geological?) continuation of the Rockies that lies northwest of the Wind River Range within the Greater Yellowstone Ecosystem 
 
+Since the end of the Little Ice Age (~1850-1870) CITE, glaciers in this range have retreated or disappeared entirely. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, onto the glacier surface, and protect the glacier from wind scouring. 
 
+While nearby glaciers have been documented and studied (CITE- GNP, Wind River, Rockies), the Teton range glaciers have been generally overlooked. This work aims to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021. 
 
 ## Little Ice Age Glacier Identification
 
-Little Ice Age moraines were digitized primarily from 2014 LiDAR imagery ==cite== with a hillshade applied (QGIS).
+LIA moraines were digitized primarily from 2014 LiDAR imagery (CITE) with a hillshade applied (QGIS). 
 These data were corroborated and augmented by ==year== National Agricultural Inventory Program (NAIP) aerial imagery and ==add data refs==. 
-We follow the methods outlined in Martin-Mikle 2019 [@doi:10.1080/15230430.2019.1634443], delimiting the LIA location and size of glaciers from the presence of a terminal moraine, the presence of lateral moraines, and a size requirement of 0.01 km^2. 
+Little Ice Age moraines are found far upvalley of dated moraines from the Last Glacial Maximum  [@doi:10.1016/j.quascirev.2007.12.005]. 
+LGM deglaciation began around 13.8ka and finished by 11.5ka according to lake sediment records [@doi:10.1016/j.quascirev.2016.02.024]. 
+No cosmogenic dating of LIA moraines exist in the literature. 
+We initially followed the methods outlined in Martin-Mikle 2019 [@doi:10.1080/15230430.2019.1634443], delimiting the LIA location and size of glaciers from the presence of a terminal moraine, the presence of lateral moraines, and a size requirement of 0.01 km^2. 
+However, not all of the 11 named glaciers fit this criteria; these are outlined in light red in Figure 1. Because of their relevance to park history and visitation, they are included here but with the caveat that their size may limit the relevance of our analysis.
+Trimelines were only visible for... We estimated minimum and maximum extent using the GlaRe [@doi:10/f827s2] package in ArcGIS Pro to reconstruct ice extent in the LIA.
+
 ==add note about trimlines, etc==
 
 > The criteria used for identifying the former size and location of glaciers were (1) the presence of a terminal moraine; (2) the presence of lateral moraines; and (3) whether the identified glacier area exceeded 0.01 km2. A potential glacier was not omitted if it failed to meet both of the first two criteria (i.e., a LIA glacier that terminated at a cliff with well-defined lateral moraines but no discernible terminal moraine).
 [[@martin-mikleGlacierRecessionLittle2019]]
 
-We used GLARE [@doi:10/f827s2] to... VOLTA[@doi:10/f8rdwd], which employs an augmented slab model, was used to remove ice to determine full extent... corroborated by comparing ice thickness between glaciers that have completely disappeared and those that remain... 
+VOLTA[@doi:10/f8rdwd], which employs an augmented slab model, was used to remove ice to determine full extent... corroborated by comparing ice thickness between glaciers that have completely disappeared and those that remain... 
 
 ## Change in Aerial Extent
 
+
+
 ## Digital Elevation Model timeseries
 
-Digital Elevation Models were generated using 
+Digital Elevation Models were generated using HIPP and HSFM (CITE).
 
 ## In-Situ Data
 ### Surface Elevation Surveys
+
 ### Ablation Stake Surveys
 ### Seasonal timelapse imagery
 ### Ground-penetrating radar
+
 
 ## Ice-slab model to generate approximate ice thicknesses
 
@@ -193,6 +203,10 @@ Digital Elevation Models were generated using
 
 
 ## Results
+
+
+
+
 
 ## Conclusions
 

@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c04aa2b2325dcdc20dcc2c1c70b6bd8af1c906d/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c04aa2b2325dcdc20dcc2c1c70b6bd8af1c906d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c04aa2b2325dcdc20dcc2c1c70b6bd8af1c906d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/4c04aa2b2325dcdc20dcc2c1c70b6bd8af1c906d/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@d4bcf24](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f)
+from [Elizabethcase/TetonsGlaciationManuscript@4c04aa2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/4c04aa2b2325dcdc20dcc2c1c70b6bd8af1c906d)
 on March 31, 2022.
 </em></small>
 
@@ -155,13 +155,13 @@ Relevance
 
 This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. Little Ice Age moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate current ice volume in the landscape. 
 
-[[31.study-area]]
-[[32.LIA-mapping]]
-[[33.aerial-change]]
-[[34.dem-generation]]
-[[35.in-situ-data]]
-[[36.ice-slab-model]]
-[[37.topography-vs-cliamte]]
+- [[31.study-area]]
+- [[32.LIA-mapping]]
+- [[33.aerial-change]]
+- [[34.dem-generation]]
+- [[35.in-situ-data]]
+- [[36.ice-slab-model]]
+- [[37.topography-vs-cliamte]]
 
 
 
@@ -212,7 +212,7 @@ ADD DATA PROCESSING
 Ablation stakes are deployed yearly on Middle Teton Glacier. 
 One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
 The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
-A Heucke steam drill [@doi: 10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
+A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
 Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a Trimble (CITE). 
 Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
 Sites were visited in subsequent seasons if they were able to be located. 

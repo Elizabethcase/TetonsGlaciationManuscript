@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@3dc3b3f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/3dc3b3ffcfcd2807f36b136c09e924805a0e8143)
+from [Elizabethcase/TetonsGlaciationManuscript@745e10f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/745e10ff927e31fd27be8a917dc401fb8b29b84d)
 on March 31, 2022.
 </em></small>
 
@@ -206,7 +206,7 @@ While most of the focus of the glacier monitoring program in the Tetons is on Mi
 ### Surface Elevation Surveys
 At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
 Surveyors followed a pre-determined grid (add point spacing) as closely as possible, with slight deviations for crevassing and rockfall hazard.
-The data was processed using 
+ADD DATA PROCESSING
 ### Ablation Stake Surveys
 Ablation stakes are deployed yearly on Middle Teton Glacier. 
 One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
@@ -216,6 +216,7 @@ Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure 
 Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
 Sites were visited in subsequent seasons if they were able to be located. 
 The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
+ADD DATA PROCESSING
 ### Accumulation surveys
 To estimate seasonal accumulation, a team took snow probe measurements across the glacier and dug xx snow pits at the end of the accumulation season (late May - early June) in 2019, 2020, and 2021. 
 Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines were separated by ~50m as conditions allowed. 

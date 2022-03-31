@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/745e10ff927e31fd27be8a917dc401fb8b29b84d/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@745e10f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/745e10ff927e31fd27be8a917dc401fb8b29b84d)
+from [Elizabethcase/TetonsGlaciationManuscript@d4bcf24](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/d4bcf240e9b3928f5c60ab38ce5bce1249661a0f)
 on March 31, 2022.
 </em></small>
 
@@ -207,6 +207,7 @@ While most of the focus of the glacier monitoring program in the Tetons is on Mi
 At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
 Surveyors followed a pre-determined grid (add point spacing) as closely as possible, with slight deviations for crevassing and rockfall hazard.
 ADD DATA PROCESSING
+
 ### Ablation Stake Surveys
 Ablation stakes are deployed yearly on Middle Teton Glacier. 
 One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
@@ -217,17 +218,20 @@ Most sites were revisited twice throughout the season to measure ablation and ta
 Sites were visited in subsequent seasons if they were able to be located. 
 The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
 ADD DATA PROCESSING
+
 ### Accumulation surveys
 To estimate seasonal accumulation, a team took snow probe measurements across the glacier and dug xx snow pits at the end of the accumulation season (late May - early June) in 2019, 2020, and 2021. 
 Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines were separated by ~50m as conditions allowed. 
 Surveyors noted the type of transition as either firn or glacial ice. 
 In addition, two snow pits are dug down to the previous year's summer surface at the location of the highest and lowest ablation stakes. 
 Snow density is sampled every 0.5m depth to the bottom of the pit using a 500cc density cutter and a scale. 
+
 ### Seasonal timelapse imagery and air temperature sensors
 Timelapse cameras and air temperature sensors are installed seasonally at five of the eleven glaciers: Middle Teton, Teton Glacier, Falling Ice Glacier, Peterson Glacier, and Schoolroom Glacier. 
 Repeat photos of these glaciers are also taken every summer season at set locations.  
 Additional photos are taken every year of Glacier Peak and Teepe glaciers. 
 Skillet and the three Triple glaciers are not actively monitored by the park.
+
 ### Ground-penetrating radar
 
 

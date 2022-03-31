@@ -1,3 +1,4 @@
+accesssory
 adipiscing
 aliqua
 aliquip
@@ -8,10 +9,12 @@ ArcGIS
 aute
 Caskey
 cillum
+cliamte
 commodo
 consectetur
 consequat
 cosmogenic
+crevassing
 culpa
 cupidatat
 danielmcgrathCSU
@@ -29,9 +32,11 @@ enim
 esse
 Excepteur
 exercitation
+firn
 fugiat
 Geosciences
 GPR
+Heucke
 hillshade
 HIPP
 HSFM
@@ -62,6 +67,7 @@ occaecat
 officia
 Pandoc’s
 pariatur
+pre
 proident
 QGIS
 qui
@@ -71,12 +77,14 @@ reprehenderit
 sed
 Simeon
 sint
-Situ
+situ
 sunt
+Teepe
 tempor
 Teton
-timelapse
+Timelapse
 timeseries
+Trimble
 Trimelines
 trimlines
 ullamco

@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-03-30'
+date-meta: '2022-03-31'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-03-30" />
-  <meta name="citation_publication_date" content="2022-03-30" />
+  <meta name="dc.date" content="2022-03-31" />
+  <meta name="citation_publication_date" content="2022-03-31" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/d2196ac375ef1dcbd3088d9135bc2b915d58f820/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/3dc3b3ffcfcd2807f36b136c09e924805a0e8143/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@d2196ac](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/d2196ac375ef1dcbd3088d9135bc2b915d58f820)
-on March 30, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@3dc3b3f](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/3dc3b3ffcfcd2807f36b136c09e924805a0e8143)
+on March 31, 2022.
 </em></small>
 
 ## Authors
@@ -155,6 +155,15 @@ Relevance
 
 This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. Little Ice Age moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate current ice volume in the landscape. 
 
+[[31.study-area]]
+[[32.LIA-mapping]]
+[[33.aerial-change]]
+[[34.dem-generation]]
+[[35.in-situ-data]]
+[[36.ice-slab-model]]
+[[37.topography-vs-cliamte]]
+
+
 
 The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful? dozens? of permanent snow and icefields. About forty miles long and ten miles across, the mountain range is an (ecological? geological?) continuation of the Rockies that lies northwest of the Wind River Range within the Greater Yellowstone Ecosystem 
 
@@ -189,10 +198,35 @@ VOLTA[@doi:10/f8rdwd], which employs an augmented slab model, was used to remove
 Digital Elevation Models were generated using HIPP and HSFM (CITE).
 
 ## In-Situ Data
-### Surface Elevation Surveys
 
+To better understand the change in ice volume and extent, surveys have been conducted at Middle Teton glacier since 2015/6. 
+These include surface elevation surveys, ablation stake installation and monitoring, accumulation surveys through snow pits and snow probe surveys, and most recently, ground-penetrating radar. 
+While most of the focus of the glacier monitoring program in the Tetons is on Middle Teton Glacier, timelapse cameras and air temperature sensors were also installed at four other sites across the park.
+
+### Surface Elevation Surveys
+At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
+Surveyors followed a pre-determined grid (add point spacing) as closely as possible, with slight deviations for crevassing and rockfall hazard.
+The data was processed using 
 ### Ablation Stake Surveys
-### Seasonal timelapse imagery
+Ablation stakes are deployed yearly on Middle Teton Glacier. 
+One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
+The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
+A Heucke steam drill [@doi: 10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
+Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a Trimble (CITE). 
+Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
+Sites were visited in subsequent seasons if they were able to be located. 
+The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
+### Accumulation surveys
+To estimate seasonal accumulation, a team took snow probe measurements across the glacier and dug xx snow pits at the end of the accumulation season (late May - early June) in 2019, 2020, and 2021. 
+Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines were separated by ~50m as conditions allowed. 
+Surveyors noted the type of transition as either firn or glacial ice. 
+In addition, two snow pits are dug down to the previous year's summer surface at the location of the highest and lowest ablation stakes. 
+Snow density is sampled every 0.5m depth to the bottom of the pit using a 500cc density cutter and a scale. 
+### Seasonal timelapse imagery and air temperature sensors
+Timelapse cameras and air temperature sensors are installed seasonally at five of the eleven glaciers: Middle Teton, Teton Glacier, Falling Ice Glacier, Peterson Glacier, and Schoolroom Glacier. 
+Repeat photos of these glaciers are also taken every summer season at set locations.  
+Additional photos are taken every year of Glacier Peak and Teepe glaciers. 
+Skillet and the three Triple glaciers are not actively monitored by the park.
 ### Ground-penetrating radar
 
 

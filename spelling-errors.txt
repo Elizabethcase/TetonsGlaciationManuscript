@@ -62,6 +62,7 @@ Mikle
 mollit
 NAIP
 nisi
+NIST
 nostrud
 occaecat
 officia
@@ -78,11 +79,12 @@ sed
 Simeon
 sint
 situ
+snowpack
 sunt
 Teepe
 tempor
 Teton
-timelapse
+Timelapse
 timeseries
 Trimble
 Trimelines

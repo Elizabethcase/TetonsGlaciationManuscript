@@ -86,7 +86,7 @@ sunt
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 Trimelines

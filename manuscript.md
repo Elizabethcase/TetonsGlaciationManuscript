@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@bbd3584](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5)
+from [Elizabethcase/TetonsGlaciationManuscript@a9fcfe2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/a9fcfe237099394f01cb4a9d48f9f4fcbc706376)
 on April 5, 2022.
 </em></small>
 
@@ -136,11 +136,17 @@ Another edit, this time its on my local machine in a branch of the original repo
 
 ## Introduction.{page_break_before}
 
-The Teton Range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. Its iconic landscape, of jagged peaks and gentle valleys, has been sculpted by glaciers over hundreds of thousands of years, but since the end of the Little Ice Age, Teton ice has rapidly disappeared. This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021.
+The Teton Range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. 
+Its iconic landscape, of jagged peaks and gentle valleys, has been sculpted by glaciers over hundreds of thousands of years, but since the end of the Little Ice Age, Teton ice has rapidly disappeared. 
+This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021.
 
-The remaining glaciers -- Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow.  Terminal and lateral moraines produced during the Little Ice Age (1300-1850, cite) delineate these glaciers, as well as trace the ghosts of those that have melted into ice fields, rock glaciers, and rock strewn landscapes. These moraines can give us an estimate of ice volume from approximately ~1850. Since then, glacial change has been driven by natural warming, anthropogenic climate change, and topographical influences. 
+The remaining glaciers -- Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow.  
+Terminal and lateral moraines produced during the Little Ice Age (1300-1850, cite) delineate these glaciers, as well as trace the ghosts of those that have melted into ice fields, rock glaciers, and rock strewn landscapes.
+These moraines can give us an estimate of ice volume from approximately ~1850. 
+Since then, glacial change has been driven by natural warming, anthropogenic climate change, and topographical influences. 
 
-Compared to their neighbors in the north (Glacier National Park and Yellowstone National Park), south (the Rockies), and east (Wind River Range), Teton glaciers have been far less studied. This work publishes for the first time a record of: Little Ice Age glacial, a time series of aerial and volumetric change for all eleven glaciers from 1950-2021, and in-situ observations from Middle Teton Glacier from 2016-2021. 
+Compared to their neighbors in the north (Glacier National Park and Yellowstone National Park), south (the Rockies), and east (Wind River Range), Teton glaciers have been far less studied. 
+This work publishes for the first time a record of: Little Ice Age glacial, a time series of aerial and volumetric change for all eleven glaciers from 1950-2021, and in-situ observations from Middle Teton Glacier from 2016-2021. 
 
 
 

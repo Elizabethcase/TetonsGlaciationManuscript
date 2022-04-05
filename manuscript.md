@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-04-01'
+date-meta: '2022-04-05'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-04-01" />
-  <meta name="citation_publication_date" content="2022-04-01" />
+  <meta name="dc.date" content="2022-04-05" />
+  <meta name="citation_publication_date" content="2022-04-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6e156a5248abdc67ca780cabf5065c768c68d982/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6e156a5248abdc67ca780cabf5065c768c68d982/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6e156a5248abdc67ca780cabf5065c768c68d982/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/6e156a5248abdc67ca780cabf5065c768c68d982/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@6e156a5](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/6e156a5248abdc67ca780cabf5065c768c68d982)
-on April 1, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@bbd3584](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/bbd3584aff946eeb16c4a4b34c2bfb41c58977a5)
+on April 5, 2022.
 </em></small>
 
 ## Authors
@@ -136,22 +136,13 @@ Another edit, this time its on my local machine in a branch of the original repo
 
 ## Introduction.{page_break_before}
 
-The Teton Range's iconic landscape of jagged peaks and classic U-shaped valleys has been carved out of stone by glaciers over many thousands of years. The range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021. 
+The Teton Range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. Its iconic landscape, of jagged peaks and gentle valleys, has been sculpted by glaciers over hundreds of thousands of years, but since the end of the Little Ice Age, Teton ice has rapidly disappeared. This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021.
 
-Isotopic dating has been used on the moraine 
-1. Little Ice Age
-While most of the sculptural work was completed over the last two ice ages ==cite==, the Little Ice Age (1300-1850), a period of cooling in the northern hemisphere, left its mark on the landscape. 
-Terminal and lateral moraines delineate the park's remaining glaciers, which subsist on and in north and east facing walls and valleys scattered throughout the park.
+The remaining glaciers -- Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow.  Terminal and lateral moraines produced during the Little Ice Age (1300-1850, cite) delineate these glaciers, as well as trace the ghosts of those that have melted into ice fields, rock glaciers, and rock strewn landscapes. These moraines can give us an estimate of ice volume from approximately ~1850. Since then, glacial change has been driven by natural warming, anthropogenic climate change, and topographical influences. 
 
-2. Glacial change 1950-present day
-- natural climate cycle
-- anthropogenic influences
-- climate vs topography
+Compared to their neighbors in the north (Glacier National Park and Yellowstone National Park), south (the Rockies), and east (Wind River Range), Teton glaciers have been far less studied. This work publishes for the first time a record of: Little Ice Age glacial, a time series of aerial and volumetric change for all eleven glaciers from 1950-2021, and in-situ observations from Middle Teton Glacier from 2016-2021. 
 
-3. Distinguishing 
 
-Relevance
-- impact
 
 This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. Little Ice Age moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate current ice volume in the landscape. 
 
@@ -207,7 +198,6 @@ While most of the focus of the glacier monitoring program in the Tetons is on Mi
 At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
 Surveyors followed a pre-determined grid (add point spacing) as closely as possible, with slight deviations for crevassing and rockfall hazard.
 
-
 ### Ablation Stake Surveys
 Ablation stakes are deployed yearly on Middle Teton Glacier. 
 One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
@@ -247,9 +237,8 @@ Air temperature sensors (HOBO Pendant Temperature Data Logger) are installed yea
 The air temperature sensors are calibrated yearly to a National Institute of Standards and Technology (NIST) certified device in both room-temperature and ice baths to verify that the loggers remained within  +/- 0.53°C to the NIST device reading from 0° to 50°C. 
 The loggers are programmed to record data once an hour pre-deployment and mounted on trunks 10-15 feet above the ground within tree stands with solar radiation shielding following Holden and others (2013) [@doi: 10.1016/j.agrformet.2013.06.011].
 
-
 ### Ground-penetrating radar
-
+@dan
 
 ## Ice-slab model to generate approximate ice thicknesses
 

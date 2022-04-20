@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/gh-pages) branch hosts the contents of this directory at <https://Elizabethcase.github.io/TetonsGlaciationManuscript/>.
-The permalink for this webpage version is <https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/>.
+The permalink for this webpage version is <https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/8891f783aeebb30020bc5fe81456194b37c76a23/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`a9fcfe237099394f01cb4a9d48f9f4fcbc706376`](https://github.com/Elizabethcase/TetonsGlaciationManuscript/commit/a9fcfe237099394f01cb4a9d48f9f4fcbc706376).
+[`8891f783aeebb30020bc5fe81456194b37c76a23`](https://github.com/Elizabethcase/TetonsGlaciationManuscript/commit/8891f783aeebb30020bc5fe81456194b37c76a23).

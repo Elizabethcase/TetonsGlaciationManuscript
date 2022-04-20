@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-04-05'
+date-meta: '2022-04-20'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-04-05" />
-  <meta name="citation_publication_date" content="2022-04-05" />
+  <meta name="dc.date" content="2022-04-20" />
+  <meta name="citation_publication_date" content="2022-04-20" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/8891f783aeebb30020bc5fe81456194b37c76a23/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/8891f783aeebb30020bc5fe81456194b37c76a23/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/8891f783aeebb30020bc5fe81456194b37c76a23/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/a9fcfe237099394f01cb4a9d48f9f4fcbc706376/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/8891f783aeebb30020bc5fe81456194b37c76a23/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@a9fcfe2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/a9fcfe237099394f01cb4a9d48f9f4fcbc706376)
-on April 5, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@8891f78](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/8891f783aeebb30020bc5fe81456194b37c76a23)
+on April 20, 2022.
 </em></small>
 
 ## Authors
@@ -136,16 +136,24 @@ Another edit, this time its on my local machine in a branch of the original repo
 
 ## Introduction.{page_break_before}
 
-The Teton Range is the defining feature of Grand Teton National Park, which lies just south of Yellowstone in the north-western corner of Wyoming. 
-Its iconic landscape, of jagged peaks and gentle valleys, has been sculpted by glaciers over hundreds of thousands of years, but since the end of the Little Ice Age, Teton ice has rapidly disappeared. 
-This study investigates the change in extent and volume of the park's 11 named glaciers from the Little Ice Age to 2021.
+The Teton Range is the defining feature of Grand Teton National Park (GRTE), which lies just south of Yellowstone in the north-western corner of Wyoming.
+The 50-mile-long range runs approximately north to south, with elevations ranging from 6,400 feet in Jackson Valley to ~13,700 feet at the top of the Grand Teton.
+Its iconic landscape, of jagged peaks and gentle valleys, has been sculpted by glaciers over hundreds of thousands of years. 
+Since the end of the Little Ice Age, Teton ice has rapidly disappeared. 
+This study investigates the change in extent and volume of the park's glaciers from the Little Ice Age to 2021.
 
-The remaining glaciers -- Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow.  
+These glaciers were first noted in western scientific publications between 1870 and the early 1930s, mapped by the U.S. Geological and Geographical Survey of the Territories (also known as the Hayden Survey) and later in more detail by mountaineer and geologist Frithof Fryxell (@doi: doi.org/10.1086/624317). 
+The park currently recognizes 11 named glaciers, although some debate remains whether some of these were, or still are, large enough bodies of ice to be classified glaciologically as a glacier.
+In this paper, we discuss the size and estimated volume of these glaciers, but for ease of understanding, will refer to all bodies of ice as glaciers unless otherwise explicitly noted.
+
+The eleven glaciers in GRTE - Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow. 
 Terminal and lateral moraines produced during the Little Ice Age (1300-1850, cite) delineate these glaciers, as well as trace the ghosts of those that have melted into ice fields, rock glaciers, and rock strewn landscapes.
-These moraines can give us an estimate of ice volume from approximately ~1850. 
-Since then, glacial change has been driven by natural warming, anthropogenic climate change, and topographical influences. 
+These moraines can give us an estimate of ice volume at the peak of the Little Ice Age, around 1850 ==(cite)==
+Initial retreat of glaciers in nearby ranges has been attributed to natural recover from the LIA (@doi: https://doi.org/10.1080/15230430.2019.1634443).
+Since then, glacial change has been attributed to anthropogenic climate change (@doi: https://doi.org/10.1126/science.1254702) and topographical influences (@doi: https://doi.org/10.5194/tc-12-2109-2018)
 
 Compared to their neighbors in the north (Glacier National Park and Yellowstone National Park), south (the Rockies), and east (Wind River Range), Teton glaciers have been far less studied. 
+As significant members of the visual, recreational, ecological, and geological systems of the Teton Range, as well as a connective geographical link between the better studied Rocky Mountain, Wind River, and Glacier National Park glaciers, an understanding of glacial change in the Tetons can help us understand past events and future implications throughout the park and beyond.
 This work publishes for the first time a record of: Little Ice Age glacial, a time series of aerial and volumetric change for all eleven glaciers from 1950-2021, and in-situ observations from Middle Teton Glacier from 2016-2021. 
 
 
@@ -196,17 +204,27 @@ Digital Elevation Models were generated using HIPP and HSFM (CITE).
 
 ## In-Situ Data
 
-To better understand the change in ice volume and extent, surveys have been conducted at Middle Teton glacier since 2015/6. 
-These include surface elevation surveys, ablation stake installation and monitoring, accumulation surveys through snow pits and snow probe surveys, and most recently, ground-penetrating radar. 
-While most of the focus of the glacier monitoring program in the Tetons is on Middle Teton Glacier, timelapse cameras and air temperature sensors were also installed at four other sites across the park.
+To better understand the change in ice volume and extent, surveys have been conducted at Middle Teton glacier (MTG) since 2016.
+MTG was chosen as the benchmark glacier for the Tetons in 2016 owing to its size (second largest) and ease of access, accessible from the trail to the Lower Saddle, where the most popular routes to climb the Grand begin.
+
+Surveys taken across MTG include surface elevation surveys, ablation stake installation and monitoring, accumulation surveys through snow pits and snow probe surveys, and most recently, ground-penetrating radar. 
+While most of the focus of the glacier monitoring program in the Tetons is on Middle Teton Glacier, timelapse cameras and air temperature sensors are also installed at sites near four other glaciers across the park.
 
 ### Surface Elevation Surveys
 At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
-Surveyors followed a pre-determined grid (add point spacing) as closely as possible, with slight deviations for crevassing and rockfall hazard.
+The first surface elevation survey was conducted in 2015 with 63 ungridded points; these are excluded from our analysis.
+Between 2016 and 2021, the survey expanded to cover a majority of Middle Teton Glacier.
+
+On-glacier surveyors followed a pre-determined grid ==(add point spacing)== as closely as possible; slight deviations in the surveys avoid crevassing and rockfall hazards.
+Each gridpoint is measured using a ==(add handheld gps info)==
+Four team members participate in the survey; two at higher elevations and two at lower elevations.
+
+Post collection, the surface elevation data is processed in GPS Pathfinder Office. A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. For the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
+
 
 ### Ablation Stake Surveys
 Ablation stakes are deployed yearly on Middle Teton Glacier. 
-One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accesssory cord.
+One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accessory cord.
 The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
 A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
 Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a Trimble (CITE). 
@@ -253,6 +271,12 @@ The loggers are programmed to record data once an hour pre-deployment and mounte
 
 
 ## Results
+
+
+
+### Surface Elevation Surveys
+Figure {@fig: MTG201621}a shows the surface elevation change between 2016 and 2021, using the boundary of the 2016 survey.
+
 
 
 

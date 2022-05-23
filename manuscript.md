@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/5b6c18a02d53aae4580c9ecda29f399103efbc5e/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/5b6c18a02d53aae4580c9ecda29f399103efbc5e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/5b6c18a02d53aae4580c9ecda29f399103efbc5e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9b111319d6cee455f51d107f6f144d1dde71ea19/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9b111319d6cee455f51d107f6f144d1dde71ea19/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9b111319d6cee455f51d107f6f144d1dde71ea19/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/5b6c18a02d53aae4580c9ecda29f399103efbc5e/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/9b111319d6cee455f51d107f6f144d1dde71ea19/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@5b6c18a](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/5b6c18a02d53aae4580c9ecda29f399103efbc5e)
+from [Elizabethcase/TetonsGlaciationManuscript@9b11131](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/9b111319d6cee455f51d107f6f144d1dde71ea19)
 on May 23, 2022.
 </em></small>
 
@@ -155,7 +155,7 @@ This work publishes for the first time a record of: Little Ice Age glacial, a ti
 
 
 
-This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. Little Ice Age moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate current ice volume in the landscape. 
+This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. LIA moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. In situ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate past and current ice volume in the landscape. 
 
 - [[31.study-area]]
 - [[32.LIA-mapping]]
@@ -216,7 +216,13 @@ On-glacier surveyors followed a pre-determined grid ==(add point spacing)== as c
 Each gridpoint is measured using a ==(add handheld gps info)==
 Four team members participate in the survey; two at higher elevations and two at lower elevations.
 
-Post collection, the surface elevation data is processed in GPS Pathfinder Office. A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. For the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
+Post collection, the surface elevation data is processed in GPS Pathfinder Office. 
+A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. F
+or the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
+All GPS data uses the UTM 12 North NAD 1983 coordinate reference system unless otherwise specified.
+
+==(note this paragraph may change: updating protocol to re-process in Matlab)==
+
 
 
 ### Ablation Stake Surveys
@@ -264,7 +270,12 @@ The loggers are programmed to record data once an hour pre-deployment and mounte
 
 ## Ice-slab model to generate approximate ice thicknesses
 
+Following Florentine et al. we use a simple slab model to estimate the ice thickness. 
 
+This relationship assumes that the driving and yield stress are equal. 
+If this is true, ice surfaces with low surface angles must have large driving stresses, e.g. be very thick. 
+But once a glacier thins substantially and stops flowing, which occurs near the terminus of many Teton glaciers - this relationship fails to hold. 
+While this model is used widely as a simple tool for reconstructing/estimating ice thickness for alpine glaciers, this caveat is an important one. As alpine glaciers continue to thin, this issue will only become more pronounced. 
 
 
 

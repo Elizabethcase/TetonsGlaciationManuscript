@@ -66,6 +66,7 @@ magna
 McGrath
 Mikle
 mollit
+NAD
 NAIP
 nisi
 NIST
@@ -91,7 +92,7 @@ sunt
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 Trimelines
@@ -100,6 +101,7 @@ TSWY
 ullamco
 ungridded
 upvalley
+UTM
 velit
 veniam
 voluptate

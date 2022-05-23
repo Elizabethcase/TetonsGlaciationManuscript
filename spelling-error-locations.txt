@@ -7,8 +7,7 @@ content/01.abstract.md:3:Teton
 content/01.abstract.md:3:Teton
 content/01.abstract.md:3:Teton
 content/01.abstract.md:3:Teton
-content/01.abstract.md:6:JK
-content/01.abstract.md:11:repo
+content/01.abstract.md:8:repo
 content/20.introduction.md:3:GRTE
 content/20.introduction.md:3:Teton
 content/20.introduction.md:3:Teton

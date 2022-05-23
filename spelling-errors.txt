@@ -51,7 +51,6 @@ IDDR
 incididunt
 ipsum
 irure
-JK
 jkingslake
 Jonny
 ka
@@ -92,7 +91,7 @@ sunt
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 Trimelines

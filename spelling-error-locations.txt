@@ -38,7 +38,11 @@ content/30.methods.md:1:trimlines
 content/30.methods.md:4:LIA
 content/30.methods.md:7:situ
 content/30.methods.md:9:cliamte
+content/31.study-area.md:1:Absaroka
 content/31.study-area.md:1:icefields
+content/31.study-area.md:1:Teton
+content/31.study-area.md:1:Teton
+content/31.study-area.md:1:Teton
 content/31.study-area.md:1:Teton
 content/31.study-area.md:3:trimlines
 content/31.study-area.md:5:LIA

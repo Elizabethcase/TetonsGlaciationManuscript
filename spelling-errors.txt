@@ -1,3 +1,4 @@
+Absaroka
 adipiscing
 aliqua
 aliquip
@@ -92,7 +93,7 @@ sunt
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 Trimelines

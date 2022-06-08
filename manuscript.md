@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-05-23'
+date-meta: '2022-06-08'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-05-23" />
-  <meta name="citation_publication_date" content="2022-05-23" />
+  <meta name="dc.date" content="2022-06-08" />
+  <meta name="citation_publication_date" content="2022-06-08" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f3c704ebf5f3083f16ef8334b1c19f8d4308a550/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f3c704ebf5f3083f16ef8334b1c19f8d4308a550/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f3c704ebf5f3083f16ef8334b1c19f8d4308a550/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0ff27bbc8d1303bf5cf109ee4e336889a5851120/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0ff27bbc8d1303bf5cf109ee4e336889a5851120/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0ff27bbc8d1303bf5cf109ee4e336889a5851120/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/f3c704ebf5f3083f16ef8334b1c19f8d4308a550/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0ff27bbc8d1303bf5cf109ee4e336889a5851120/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@f3c704e](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/f3c704ebf5f3083f16ef8334b1c19f8d4308a550)
-on May 23, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@0ff27bb](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/0ff27bbc8d1303bf5cf109ee4e336889a5851120)
+on June 8, 2022.
 </em></small>
 
 ## Authors
@@ -167,11 +167,12 @@ This paper combines remotely sensed, in situ, and modeled data and outputs to co
 
 
 
-The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful? dozens? of permanent snow and icefields. About forty miles long and ten miles across, the mountain range is an (ecological? geological?) continuation of the Rockies that lies northwest of the Wind River Range within the Greater Yellowstone Ecosystem 
+The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful of permanent snow and icefields. About forty miles long and ten miles across, the short and narrow high mountain range is a geological continuation of the Rocky Mountains that extends into the Greater Yellowstone Ecosystem. The range is bordered by other mountain ranges: Absaroka Range to the northwest, Wind River Range to the southeast, and the Wyoming Range to the south. Additionally, the Teton Range is flanked by flat-floored valleys by Jackson Hole to the east and by Teton Basin to the west. The highest peaks of the Teton Range lie near the eastern edge of the fault-block mountain range, while broader and gentler slopes lie on the western slopes. 
 
-Since the end of the Little Ice Age (~1850-1870) CITE, glaciers in this range have retreated or disappeared entirely. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, onto the glacier surface, and protect the glacier from wind scouring. 
+Since the end of the Little Ice Age (~1850-1870), glaciers in this range have retreated or disappeared entirely [@doi: https://doi.org/10.1080/02723646.1991.10642421]. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, onto the glacier surface, and protect the glacier from wind scouring. 
 
-While nearby glaciers have been documented and studied (CITE- GNP, Wind River, Rockies), the Teton range glaciers have been generally overlooked. This work aims to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021. 
+While changes to nearby glaciers have been studied and well documented (CITE- GNP, Wind River, Rockies)  [@doi: https://doi.org/10.3133/fs20193068; @doi: https://doi.org/10.1080/02723646.1991.10642421; @doi: https://doi.org/10.1016/S1040-6182(96)00026-2], the Teton Range glaciers have been generally overlooked. This work aims to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021.
+
 
 ## Little Ice Age Glacier Identification
 

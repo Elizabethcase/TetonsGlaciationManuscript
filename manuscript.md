@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bcc80b2d5aaee5a30a1170dc269cf060257ce42c/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bcc80b2d5aaee5a30a1170dc269cf060257ce42c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bcc80b2d5aaee5a30a1170dc269cf060257ce42c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/bcc80b2d5aaee5a30a1170dc269cf060257ce42c/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@bcc80b2](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/bcc80b2d5aaee5a30a1170dc269cf060257ce42c)
+from [Elizabethcase/TetonsGlaciationManuscript@eed76c5](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/eed76c578fc4c3aed9df783534ccdbf612099f62)
 on June 8, 2022.
 </em></small>
 
@@ -167,11 +167,11 @@ This paper combines remotely sensed, in situ, and modeled data and outputs to co
 
 
 
-The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful of permanent snow and icefields. About forty miles long and ten miles across, the short and narrow high mountain range is a geological continuation of the Rocky Mountains that extends into the Greater Yellowstone Ecosystem. The range is bordered by other mountain ranges: Absaroka Range to the northwest, Wind River Range to the southeast, and the Wyoming Range to the south. Additionally, the Teton Range is flanked by flat-floored valleys by Jackson Hole to the east and by Teton Basin to the west. The highest peaks of the Teton Range lie near the eastern edge of the fault-block mountain range, while broader and gentler slopes lie on the western slopes. 
+The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful of permanent snow and icefields. About 40 miles long and 10 miles across, the short and narrow high mountain range is a geological continuation of the Rocky Mountains that extends into the Greater Yellowstone Ecosystem. The range is bordered by other mountain ranges: Absaroka Range to the northwest, Wind River Range to the southeast, and the Wyoming Range to the south. Additionally, the Teton Range is flanked by flat-floored valleys, with Jackson Hole to the east and by Teton Basin to the west. The highest peaks of the Teton Range lie near the eastern edge of the fault-block mountain range, while broader and gentler slopes gradually decline into Idaho farmland.
 
-Since the end of the Little Ice Age (~1850-1870), glaciers in this range have retreated or disappeared entirely [@doi: https://doi.org/10.1080/02723646.1991.10642421]. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, onto the glacier surface, and protect the glacier from wind scouring. 
+Since the end of the Little Ice Age (~1850-1870), glaciers in this range have retreated or disappeared entirely [@doi: https://doi.org/10.1080/02723646.1991.10642421]. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, and protect the glacier from wind scouring. 
 
-While changes to nearby glaciers have been studied and well documented (CITE- GNP, Wind River, Rockies)  [@doi: https://doi.org/10.3133/fs20193068; @doi: https://doi.org/10.1080/02723646.1991.10642421; @doi: https://doi.org/10.1016/S1040-6182(96)00026-2], the Teton Range glaciers have been generally overlooked. This work aims to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021.
+While changes to nearby glaciers have been studied and well documented [@doi: https://doi.org/10.3133/fs20193068; @doi: https://doi.org/10.1080/02723646.1991.10642421; @doi: https://doi.org/10.1016/S1040-6182(96)00026-2], the Teton Range glaciers have been relatively understudied. This builds on surveys by Fryxell (cite), Reed (cite), Reynolds et al. (cite), and Edwards et al. (cite), aiming to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021.
 
 
 ## Little Ice Age Glacier Identification

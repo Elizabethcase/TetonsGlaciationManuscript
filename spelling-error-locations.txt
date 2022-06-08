@@ -44,6 +44,7 @@ content/31.study-area.md:1:Teton
 content/31.study-area.md:1:Teton
 content/31.study-area.md:1:Teton
 content/31.study-area.md:3:trimlines
+content/31.study-area.md:5:Fryxell
 content/31.study-area.md:5:LIA
 content/31.study-area.md:5:Teton
 content/32.LIA-mapping.md:3:hillshade

@@ -30,7 +30,6 @@ content/20.introduction.md:21:situ
 content/20.introduction.md:21:Teton
 content/30.methods.md:1:LIA
 content/30.methods.md:1:situ
-content/30.methods.md:1:situ
 content/30.methods.md:1:Teton
 content/30.methods.md:1:Teton
 content/30.methods.md:1:timeseries

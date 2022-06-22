@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-06-08'
+date-meta: '2022-06-22'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-06-08" />
-  <meta name="citation_publication_date" content="2022-06-08" />
+  <meta name="dc.date" content="2022-06-22" />
+  <meta name="citation_publication_date" content="2022-06-22" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/eed76c578fc4c3aed9df783534ccdbf612099f62/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@eed76c5](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/eed76c578fc4c3aed9df783534ccdbf612099f62)
-on June 8, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@c7a1642](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/c7a164262ee2c4b527434f8f67dc65065865fcc1)
+on June 22, 2022.
 </em></small>
 
 ## Authors
@@ -140,10 +140,10 @@ Since the end of the Little Ice Age, Teton ice has rapidly disappeared.
 This study investigates the change in extent and volume of the park's glaciers from the Little Ice Age to 2021.
 
 These glaciers were first noted in western scientific publications between 1870 and the early 1930s, mapped by the U.S. Geological and Geographical Survey of the Territories (also known as the Hayden Survey) and later in more detail by mountaineer and geologist Frithof Fryxell (@doi: doi.org/10.1086/624317). 
-The park currently recognizes 11 named glaciers, although some debate remains whether some of these were, or still are, large enough bodies of ice to be classified glaciologically as a glacier.
+The park currently recognizes 11 named glaciers, although some debate remains whether some of these were, or still are, large enough bodies of ice to be classified glaciologically as glaciers.
 In this paper, we discuss the size and estimated volume of these glaciers, but for ease of understanding, will refer to all bodies of ice as glaciers unless otherwise explicitly noted.
 
-The eleven glaciers in GRTE - Middle Teton, Teton, Teepe, Schoolroom, Petereson, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow. 
+The eleven glaciers in GRTE - Middle Teton, Teton, Teepe, Schoolroom, Petersen, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow. 
 Terminal and lateral moraines produced during the Little Ice Age (1300-1850, cite) delineate these glaciers, as well as trace the ghosts of those that have melted into ice fields, rock glaciers, and rock strewn landscapes.
 These moraines can give us an estimate of ice volume at the peak of the Little Ice Age, around 1850 ==(cite)==
 Initial retreat of glaciers in nearby ranges has been attributed to natural climactic recovery from the LIA (@doi: https://doi.org/10.1080/15230430.2019.1634443).
@@ -203,53 +203,58 @@ Digital Elevation Models were generated using HIPP and HSFM (CITE).
 ## In-Situ Data
 
 To better understand the change in ice volume and extent, surveys have been conducted at Middle Teton glacier (MTG) since 2016.
-MTG was chosen as the benchmark glacier for the Tetons in 2016 owing to its size (second largest) and ease of access, accessible from the trail to the Lower Saddle, where the most popular routes to climb the Grand begin.
+MTG was chosen as the benchmark glacier for the Tetons in 2016 owing to its size (second largest) and ease of access, accessible from the trail to the Lower Saddle, where the most popular routes to climb the Grand Teton begin.
 
-Surveys taken across MTG include surface elevation surveys, ablation stake installation and monitoring, accumulation surveys through snow pits and snow probe surveys, and most recently, ground-penetrating radar. 
+Surveys taken across MTG include accumulation surveys through snow pits and snow probe surveys, ablation stake installation and monitoring, and most recently, ground-penetrating radar. 
+Additionally, park scientists and climbing rangers perform annual fall surface elevation surveys of MTG.
 While most of the focus of the glacier monitoring program in the Tetons is on Middle Teton Glacier, timelapse cameras and air temperature sensors are also installed at sites near four other glaciers across the park.
-
-### Surface Elevation Surveys
-At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
-The first surface elevation survey was conducted in 2015 with 63 ungridded points; these are excluded from our analysis.
-Between 2016 and 2021, the survey expanded to cover a majority of Middle Teton Glacier.
-Testing testing testing testing
-
-On-glacier surveyors followed a pre-determined grid ==(add point spacing)== as closely as possible; slight deviations in the surveys avoid crevassing and rockfall hazards.
-Each gridpoint is measured using a ==(add handheld gps info)==
-Four team members participate in the survey; two at higher elevations and two at lower elevations.
-
-Post collection, the surface elevation data is processed in GPS Pathfinder Office. 
-A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. F
-or the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
-All GPS data uses the UTM 12 North NAD 1983 coordinate reference system unless otherwise specified.
-
-==(note this paragraph may change: updating protocol to re-process in Matlab)==
-
-
-
-### Ablation Stake Surveys
-Ablation stakes are deployed yearly on Middle Teton Glacier. 
-One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, and stake section number, and connected via accessory cord.
-The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
-A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
-Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a Trimble (CITE). 
-Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
-Sites were visited in subsequent seasons if they were able to be located. 
-The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
-ADD DATA PROCESSING - Joni to help with this
 
 ### Accumulation surveys
 To estimate seasonal accumulation, the park collected snow probe measurements and digs two snow pits at the end of the accumulation season (late May - early June) in 2019, 2020, and 2021. 
 Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines were separated by ~50m as conditions allowed. 
 Surveyors noted the type of transition as either firn or glacial ice. 
 In addition, two snow pits are dug down to the previous year's summer surface at the location of the highest and lowest ablation stakes. 
-Snow density is sampled every 0.5m depth to the bottom of the pit using a 500cc density cutter and a scale. 
+Snow density is sampled every 0.5 m depth to the bottom of the pit using a 500cc density cutter and a scale. 
+
+### Ablation Stake Surveys
+Ablation stakes are deployed yearly at the same time as the accumulation surveys on Middle Teton Glacier. 
+One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, depth, and stake section number, then connected via accessory cord.
+The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
+A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
+Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a handheld Trimble Geo 7X (CITE). 
+Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
+Sites were visited in subsequent seasons if stakes were located. 
+  
+The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
+(ADD how surface velocities are calculated).
+Meltwater equivalent from snow and ice is derived from the ablation stake readings and the accumulation survey. 
+The difference in stake readings between site visits provide a melt depth since last visit, while snow probe measurements provide depth of snow and depth to firn/glacial ice.
+Using snow and ice depths and their respective densities (i.e., measured snow pit density or glacial ice density), melt depth can be converted to meltwater equivalent (mwe).
+
+### Ground-penetrating radar
+@dan
+
+### Surface Elevation Surveys
+At the end of the ablation season (usually early September) a team of park scientists and climbing rangers conducts a surface elevation survey and terminus survey to measure high resolution changes in surface height and terminus location. 
+The first surface elevation survey was conducted in 2015 with 63 ungridded points; these are excluded from our analysis.
+Between 2016 and 2021, the survey expanded to cover a majority of Middle Teton Glacier.
+
+On-glacier surveyors followed pre-determined 10-meter grids for steeper, higher elevations and 20-meter grids for gentler, lower elevations as closely as possible; slight deviations in the surveyed gridpoints avoid crevassing and rockfall hazards.
+Each gridpoint is measured using a handheld Trimble Geo 7X connected to external Frontier Precision G8 GNSS or Zephyr 2 antennae, both of which are attached to a survey rod.
+Four team members participate in the survey; two at higher elevations and two at lower elevations.
+
+Post collection, the surface elevation data is processed in GPS Pathfinder Office. 
+A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. 
+For the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
+All GPS data uses the UTM 12 North NAD 1983 coordinate reference system unless otherwise specified.
+
+==(note this paragraph may change: updating protocol to re-process in Matlab)==
 
 ### Seasonal timelapse imagery and repeat photo points
 Timelapse cameras (cite) are installed seasonally at five of the eleven glaciers: Middle Teton, Teton Glacier, Falling Ice Glacier, Peterson Glacier, and Schoolroom Glacier. 
 Cameras are mounted on boulders or trees using pitons and/or webbing at the beginning of the summer season, usually in June the melting snowpack clears trails for travel.
 They are set to record four images per day at 1100, 1130, 1200, and 1230. 
-Cameras are recovered at the end of the season.
+Cameras are recovered at the end of the ablation season.
 Images are then selected to maximize visibility of the terminus and snowline while minimizing shadow and shadow movement. 
 If possible, images from the same sun angle are chosen throughout the summer. 
 Usually this means images near the beginning of the season are selected from 1230 or 1200, and images from later in the season are chosen from 1100 or 1130.
@@ -259,15 +264,13 @@ Timelapse videos are compiled using Windows Movie Maker.
 Repeat photos of Middle Teton, Teton Glacier, Falling Ice Glacier, Peterson Glacier, Schoolroom Glacier, Teepe Glacier, and Glacier Peak are also taken every summer season at set locations (FIGURE?) using a camera, tablet, or smartphone. 
 These photos are used to capture a different angle from the timelapse cameras or to track glaciers where no timelapse imagery is available.
 
-Skillet and the three Triple glaciers are not actively monitored by the park.
+Skillet and the three Triple Glaciers are not actively monitored by the park.
 
-### Air temperature sensors
+### Annual air temperature sensors
 Air temperature sensors (HOBO Pendant Temperature Data Logger) are installed yearly at five glaciers (Middle Teton, Teton Glacier, Falling Ice Glacier, Peterson Glacier, and Schoolroom Glacier) as well as in non-glaciated canyons and along sites at the base of the range (FIGURE?).
 The air temperature sensors are calibrated yearly to a National Institute of Standards and Technology (NIST) certified device in both room-temperature and ice baths to verify that the loggers remained within  +/- 0.53°C to the NIST device reading from 0° to 50°C. 
 The loggers are programmed to record data once an hour pre-deployment and mounted on trunks 10-15 feet above the ground within tree stands with solar radiation shielding following Holden and others (2013) [@doi: 10.1016/j.agrformet.2013.06.011].
 
-### Ground-penetrating radar
-@dan
 
 
 ## Ice-slab model to generate approximate ice thicknesses

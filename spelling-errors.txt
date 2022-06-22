@@ -40,8 +40,10 @@ Fryxell
 fugiat
 Geosciences
 glaciologically
+GNSS
 GPR
 gridpoint
+gridpoints
 GRTE
 Heucke
 hillshade
@@ -65,8 +67,10 @@ LiDAR
 Lorem
 magna
 McGrath
+Meltwater
 Mikle
 mollit
+mwe
 NAD
 NAIP
 nisi
@@ -76,7 +80,6 @@ occaecat
 officia
 Pandoc’s
 pariatur
-Petereson
 pre
 proident
 QGIS
@@ -93,7 +96,7 @@ sunt
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 Trimelines

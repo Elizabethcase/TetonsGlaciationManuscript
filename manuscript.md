@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-06-22'
+date-meta: '2022-07-14'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-06-22" />
-  <meta name="citation_publication_date" content="2022-06-22" />
+  <meta name="dc.date" content="2022-07-14" />
+  <meta name="citation_publication_date" content="2022-07-14" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/c7a164262ee2c4b527434f8f67dc65065865fcc1/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@c7a1642](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/c7a164262ee2c4b527434f8f67dc65065865fcc1)
-on June 22, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@0edc1ea](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/0edc1ea60dd478c8bd02844841c6e92376e07d9a)
+on July 14, 2022.
 </em></small>
 
 ## Authors

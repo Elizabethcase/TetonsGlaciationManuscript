@@ -67,7 +67,7 @@ LiDAR
 Lorem
 magna
 McGrath
-Meltwater
+meltwater
 Mikle
 mollit
 mwe
@@ -96,7 +96,7 @@ sunt
 Teepe
 tempor
 Teton
-timelapse
+Timelapse
 timeseries
 Trimble
 Trimelines

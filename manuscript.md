@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-07-14'
+date-meta: '2022-08-10'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-07-14" />
-  <meta name="citation_publication_date" content="2022-07-14" />
+  <meta name="dc.date" content="2022-08-10" />
+  <meta name="citation_publication_date" content="2022-08-10" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/0edc1ea60dd478c8bd02844841c6e92376e07d9a/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@0edc1ea](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/0edc1ea60dd478c8bd02844841c6e92376e07d9a)
-on July 14, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@e7d4414](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/e7d441401560534f5cd454e8ff1d19a42ec73bb7)
+on August 10, 2022.
 </em></small>
 
 ## Authors
@@ -176,7 +176,7 @@ While changes to nearby glaciers have been studied and well documented [@doi: ht
 
 ## Little Ice Age Glacier Identification
 
-LIA moraines were digitized primarily from 2014 LiDAR imagery (CITE) with a hillshade applied (QGIS). 
+LIA moraines were digitized primarily from 1m resolution LiDAR imagery (CITE, 2014) with a hillshade applied (QGIS). 
 These data were corroborated and augmented by ==year== National Agricultural Inventory Program (NAIP) aerial imagery and ==add data refs==. 
 Little Ice Age moraines are found far upvalley of dated moraines from the Last Glacial Maximum  [@doi:10.1016/j.quascirev.2007.12.005]. 
 LGM deglaciation began around 13.8ka and finished by 11.5ka according to lake sediment records [@doi:10.1016/j.quascirev.2016.02.024]. 
@@ -275,12 +275,19 @@ The loggers are programmed to record data once an hour pre-deployment and mounte
 
 ## Ice-slab model to generate approximate ice thicknesses
 
-Following Florentine et al. we use a simple slab model to estimate the ice thickness. 
+Following Nye (1965) and Florentine et al. (2019), we use a simple slab model to estimate the ice thickness,
+
+$$ h = \frac{\tau}{f \rho g sin\alpha}, $$
+where $h$ is the thickness of the glacier, $\tau$ is the basal shear stress, $f$ is a shape factor ([@doi:10.3189/S0022143000018670]), $\rho$ is the density of ice (917 kg m$^{-2}$), and $\alpha$ is the surface slope of the glacier. 
 
 This relationship assumes that the driving and yield stress are equal. 
 If this is true, ice surfaces with low surface angles must have large driving stresses, e.g. be very thick. 
 But once a glacier thins substantially and stops flowing, which occurs near the terminus of many Teton glaciers - this relationship fails to hold. 
-While this model is used widely as a simple tool for reconstructing/estimating ice thickness for alpine glaciers, this caveat is an important one. As alpine glaciers continue to thin, this issue will only become more pronounced. 
+While this model is used widely as a simple tool for estimating the ice thickness of alpine glaciers [@doi:10.5194/tc-11-949-2017], this caveat is an important one. 
+As alpine glaciers continue to thin, this issue will only become more pronounced. 
+
+This model was extended to account for simplified topography ([@doi:10.3189/S0022143000018670]), side drag ([@doi:10.1029/2011JF002104]), and variable basal shear stresses ([@doi10.3189/S0260305500015834]). 
+
 
 
 
@@ -292,6 +299,20 @@ While this model is used widely as a simple tool for reconstructing/estimating i
 Figure {@fig: MTG201621}a shows the surface elevation change between 2016 and 2021, using the boundary of the 2016 survey.
 
 
+
+
+
+
+We use a simple slab model to estimate glacier thickness, using Nye's 1952 formulation. Since the 1950s, this shear-stress-based model has been expanded to include variable basal shear stress, valley-wall drag, a shape factor, and so on. 
+
+Instead of absolute ice thickness estimates, we aim to investigate change in ice thickness. 
+Lacking surface mass balance measurements (few measurements taken, except, as outlined above, between 2016 and the present day), surface velocity (these glaciers are, in general, too small for most satellite data to be used to track surface features, so the only measured velocity data is from ablation stakes left on Middle Teton Glacier between 2019 and the present day), and weather data or reanalysis (sparse measurements in the Tetons likely do not reflect the surface mass additions of avalanching and wind-blown snow), we are left with glacial outlines and DEMs (LiDAR and HSFM, see Sections XX and XX respectively) as the only source of information for our models. 
+The simplest approach to generating ice thickness estimates of alpine glaciers is an area-scaling approach (see Bahr 2015 for a review). 
+With digital elevation models from HSFM and LiDAR, we can go further with information about surface slope and the surrounding topography.
+In Nye 1952, we obtain the approach used in this paper, which assumes a perfectly plastic model with no topographical influence.
+Farinotti et al. (2017) showed in their intercomparison project that the inclusion of more data (e.g. surface velocities, SMB measurements) did not, on average, improve modeled glacier thickness estimates. 
+The models that performed the best and only used OL and DEM information included Farinotti et al. 2009 (the ITEM model), Huss and Farinotti 2014 (HF-model), Linsbauer et al. (2014), and Frey et al. (2014), two mass-conserving-based and two shear-stress-based approaches respectively. 
+Huss and Farinotti (2014) and Frey et al. (2014) extend their counterparts without fundamentally changing the physics, so we considered these two possible approaches.
 
 
 

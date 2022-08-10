@@ -8,6 +8,7 @@ anthropogenic
 ArcGIS
 aute
 avalanching
+Bahr
 Caskey
 cillum
 cliamte
@@ -20,6 +21,7 @@ culpa
 cupidatat
 danielmcgrathCSU
 deglaciation
+DEMs
 deserunt
 Doherty
 dolore
@@ -34,6 +36,7 @@ enim
 esse
 Excepteur
 exercitation
+Farinotti
 firn
 Frithof
 Fryxell
@@ -49,9 +52,11 @@ Heucke
 hillshade
 HIPP
 HSFM
+Huss
 icefields
 IDDR
 incididunt
+intercomparison
 ipsum
 irure
 jkingslake
@@ -64,10 +69,11 @@ laborum
 LGM
 LIA
 LiDAR
+Linsbauer
 Lorem
 magna
 McGrath
-meltwater
+Meltwater
 Mikle
 mollit
 mwe
@@ -76,8 +82,11 @@ NAIP
 nisi
 NIST
 nostrud
+Nye
+Nye’s
 occaecat
 officia
+OL
 Pandoc’s
 pariatur
 pre
@@ -91,6 +100,7 @@ sed
 Simeon
 sint
 situ
+SMB
 snowpack
 sunt
 Teepe

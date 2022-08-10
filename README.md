@@ -31,7 +31,7 @@ The directories are as follows:
 
 + [`content`](content) contains the manuscript source, which includes markdown files as well as inputs for citations and references.
   See [`USAGE.md`](USAGE.md) for more information.
-+ [`output`](output) contains the outputs (generated files) from Manubot including the resulting manuscripts.
++ [`output`](2022-07-13-output.md) contains the outputs (generated files) from Manubot including the resulting manuscripts.
   You should not edit these files manually, because they will get overwritten.
 + [`webpage`](webpage) is a directory meant to be rendered as a static webpage for viewing the HTML manuscript.
 + [`build`](build) contains commands and tools for building the manuscript.

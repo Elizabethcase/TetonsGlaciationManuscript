@@ -1,3 +1,18 @@
+
+### Continuous Integration
+
+Whenever a pull request is opened, CI (continuous integration) will test whether the changes break the build process to generate a formatted manuscript.
+The build process aims to detect common errors, such as invalid citations.
+If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
+
+When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/elizabethcase/TetonsGlaciationManuscript/tree/gh-pages) and [`output`](https://github.com/elizabethcase/TetonsGlaciationManuscript/tree/output) branches.
+The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
+
++ **HTML manuscript** at https://elizabethcase.github.io/TetonsGlaciationManuscript/
++ **PDF manuscript** at https://elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf
+
+For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
+
 # Automated scholarly manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
@@ -70,20 +85,6 @@ The following command, while running, will trigger both the `build.sh` script an
 ```sh
 bash build/autobuild.sh
 ```
-
-### Continuous Integration
-
-Whenever a pull request is opened, CI (continuous integration) will test whether the changes break the build process to generate a formatted manuscript.
-The build process aims to detect common errors, such as invalid citations.
-If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
-
-When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/elizabethcase/TetonsGlaciationManuscript/tree/gh-pages) and [`output`](https://github.com/elizabethcase/TetonsGlaciationManuscript/tree/output) branches.
-The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
-
-+ **HTML manuscript** at https://elizabethcase.github.io/TetonsGlaciationManuscript/
-+ **PDF manuscript** at https://elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf
-
-For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
 
 ## License
 

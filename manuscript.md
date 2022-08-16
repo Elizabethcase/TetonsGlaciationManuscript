@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-08-10'
+date-meta: '2022-08-16'
 author-meta:
 - Elizaebth Case
 - Jonny Kingslake
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="og:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
   <meta property="twitter:title" content="(WIP) Glaciation in Grand Teton National Park: Little Ice Age to 2021" />
-  <meta name="dc.date" content="2022-08-10" />
-  <meta name="citation_publication_date" content="2022-08-10" />
+  <meta name="dc.date" content="2022-08-16" />
+  <meta name="citation_publication_date" content="2022-08-16" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/" />
   <meta name="citation_pdf_url" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/" />
-  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/67f614dd79c16f61221ba8b4c1e8b2e0defd6b40/" />
+  <meta name="manubot_html_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/67f614dd79c16f61221ba8b4c1e8b2e0defd6b40/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/67f614dd79c16f61221ba8b4c1e8b2e0defd6b40/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/e7d441401560534f5cd454e8ff1d19a42ec73bb7/))
+([permalink](https://Elizabethcase.github.io/TetonsGlaciationManuscript/v/67f614dd79c16f61221ba8b4c1e8b2e0defd6b40/))
 was automatically generated
-from [Elizabethcase/TetonsGlaciationManuscript@e7d4414](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/e7d441401560534f5cd454e8ff1d19a42ec73bb7)
-on August 10, 2022.
+from [Elizabethcase/TetonsGlaciationManuscript@67f614d](https://github.com/Elizabethcase/TetonsGlaciationManuscript/tree/67f614dd79c16f61221ba8b4c1e8b2e0defd6b40)
+on August 16, 2022.
 </em></small>
 
 ## Authors
@@ -123,13 +123,10 @@ on August 10, 2022.
 
 ## Abstract {.page_break_before}
 
-Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors. 
-
-
-
-
-Another edit, this time its on my local machine in a branch of the original repo (i.e. not a forked version). I made the branch in the github website.
-
+Glaciers are responsible for some of the Teton Range’s most iconic features, and remain important for both visitor recreation and as integral components of the alpine ecosystem. 
+Much work remains to be done to document glacial change in the Teton range over the course of the last two centuries, from the end of the Little Ice Age (LIA) to the present day. 
+Here we present: the first database of LIA glacial geology in the Teton Range, a series of remotely sensed change in aerial and volume extent from 1955-present day extended from Reynolds 2011 and Edmunds et al. 2012 [@doi:10.1111/j.1752-1688.2011.00607.x], in situ data of Middle Teton surface elevation change and velocity from National Park Service-led efforts, preliminary GPR results from the first campaign in May 2021, and a slab model estimating ice thickness and volume across the range. 
+These observations will help inform efforts to understand the future of ice in the Tetons as well as the Greater Yellowstone Ecosystem, from impacts on the alpine ecosystem to changing natural hazards for visitors. 
 
 ## Introduction.{page_break_before}
 
@@ -140,7 +137,7 @@ Since the end of the Little Ice Age, Teton ice has rapidly disappeared.
 This study investigates the change in extent and volume of the park's glaciers from the Little Ice Age to 2021.
 
 These glaciers were first noted in western scientific publications between 1870 and the early 1930s, mapped by the U.S. Geological and Geographical Survey of the Territories (also known as the Hayden Survey) and later in more detail by mountaineer and geologist Frithof Fryxell (@doi: doi.org/10.1086/624317). 
-The park currently recognizes 11 named glaciers, although some debate remains whether some of these were, or still are, large enough bodies of ice to be classified glaciologically as glaciers.
+The park currently recognizes 11 named glaciers, although some debate remains whether some of these were, or still are, large enough bodies of ice to be classified scientifically as glaciers.
 In this paper, we discuss the size and estimated volume of these glaciers, but for ease of understanding, will refer to all bodies of ice as glaciers unless otherwise explicitly noted.
 
 The eleven glaciers in GRTE - Middle Teton, Teton, Teepe, Schoolroom, Petersen, Skillet, Falling Ice, West Triple, Middle Triple, East Triple, and Glacier Peak -- subsist on and in north- and east-facing walls and valleys scattered throughout the park, protected by steep terrain that shades the ice surface from sun and provides extra accumulation through avalanching and wind-blown snow. 
@@ -155,7 +152,13 @@ This work publishes for the first time a record of: Little Ice Age glacial geolo
 
 
 
-This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age. LIA moraines and trimlines provide an estimate of ice volume and extent. Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. Among other work,_in-situ_ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. Finally, two simple models (ice slab, VOLTA) allow us to estimate past and current ice volume in the landscape. 
+## Methods
+
+This paper combines remotely sensed, in situ, and modeled data and outputs to comprehensively examine the changes in Teton glaciation since the Little Ice Age.
+LIA moraines and trimlines provide an estimate of LIA ice volume and extent. 
+Aerial and satellite imagery produce a timeseries of aerial change between 1950-2021, and are used to generate digital elevation models to estimate ice volume loss across seven decades. 
+Among other work,_in-situ_ data collection has generated high resolution surface elevation changes of Middle Teton Glacier over the last seven years, providing a benchmark for future glacier work. 
+Finally, two simple models (ice slab, VOLTA) allow us to estimate past and current ice volume in the landscape. 
 
 - [[31.study-area]]
 - [[32.LIA-mapping]]
@@ -167,23 +170,41 @@ This paper combines remotely sensed, in situ, and modeled data and outputs to co
 
 
 
-The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful of permanent snow and icefields. About 40 miles long and 10 miles across, the short and narrow high mountain range is a geological continuation of the Rocky Mountains that extends into the Greater Yellowstone Ecosystem. The range is bordered by other mountain ranges: Absaroka Range to the northwest, Wind River Range to the southeast, and the Wyoming Range to the south. Additionally, the Teton Range is flanked by flat-floored valleys, with Jackson Hole to the east and by Teton Basin to the west. The highest peaks of the Teton Range lie near the eastern edge of the fault-block mountain range, while broader and gentler slopes gradually decline into Idaho farmland.
+The Teton Range in northwest Wyoming is home to 11 named glaciers and a handful of permanent snow and icefields. 
+About 40 miles long and 10 miles across, the short and narrow high mountain range is a geological continuation of the Rocky Mountains that extends into the Greater Yellowstone Ecosystem. 
+The range is bordered by other mountain ranges: Absaroka Range to the northwest, Wind River Range to the southeast, and the Wyoming Range to the south. 
+Additionally, the Teton Range is flanked by flat-floored valleys, with Jackson Hole to the east and by Teton Basin to the west. 
+The highest peaks of the Teton Range lie near the eastern edge of the fault-block mountain range, while broader and gentler slopes gradually decline into Idaho farmland.
 
-Since the end of the Little Ice Age (~1850-1870), glaciers in this range have retreated or disappeared entirely [@doi: https://doi.org/10.1080/02723646.1991.10642421]. Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. These walls provide both steep surfaces for snow to accumulate and avalanche from, and protect the glacier from wind scouring. 
+Since the end of the Little Ice Age (~1850-1870), glaciers in this range have retreated or disappeared entirely [@doi: https://doi.org/10.1080/02723646.1991.10642421]. 
+Geologic remnants of these glaciers, in the form of moraines and trimlines, can be mapped throughout the park. 
+The surviving glaciers have primarily east- and north-facing aspects, and are, for the most part, topographically protected by large rock walls. 
+These walls provide both steep surfaces for snow to accumulate and avalanche from, and protect the glacier from wind scouring. 
 
-While changes to nearby glaciers have been studied and well documented [@doi: https://doi.org/10.3133/fs20193068; @doi: https://doi.org/10.1080/02723646.1991.10642421; @doi: https://doi.org/10.1016/S1040-6182(96)00026-2], the Teton Range glaciers have been relatively understudied. This builds on surveys by Fryxell (cite), Reed (cite), Reynolds et al. (cite), and Edwards et al. (cite), aiming to qualitatively and quantitatively record glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021.
+While changes to nearby glaciers have been studied and well documented [@doi:10.3133/fs20193068; @doi:10.1080/02723646.1991.10642421; @doi: https://doi.org/10.1016/S1040-6182(96)00026-2], the Teton Range glaciers have been relatively understudied. 
+This builds on surveys by Fryxell [@doi:doi.org/10.1086/624317], Reed (1964, 1965), Reynolds et al. (2012), and Edmunds et al. [@doi:10/bxswd8]. Much of this archive has either not been published (Reynolds), not been peer-reviewed (Fryxell 1935, Reed 1964, Reed 1965, Reynolds 2012), or did not include the data used or generated by the study (Fryxell 1935, Edmunds 2012). 
+This paper aims to collect and publish qualitative and quantitative records of glacial change in the Tetons over the last 150-170 years, from the end of the LIA to 2021, including moraine and trimline outlines for the 11 remaining named glaciers, in situ data collected by the park service between 2016 and 2021, and updated applied methods for generating digital elevation models applied across all 11 glaciers.
 
 
-## Little Ice Age Glacier Identification
+## Little Ice Age Glacial Geology
 
-LIA moraines were digitized primarily from 1m resolution LiDAR imagery (CITE, 2014) with a hillshade applied (QGIS). 
-These data were corroborated and augmented by ==year== National Agricultural Inventory Program (NAIP) aerial imagery and ==add data refs==. 
-Little Ice Age moraines are found far upvalley of dated moraines from the Last Glacial Maximum  [@doi:10.1016/j.quascirev.2007.12.005]. 
-LGM deglaciation began around 13.8ka and finished by 11.5ka according to lake sediment records [@doi:10.1016/j.quascirev.2016.02.024]. 
-No cosmogenic dating of LIA moraines exist in the literature. 
-We initially followed the methods outlined in Martin-Mikle 2019 [@doi:10.1080/15230430.2019.1634443], delimiting the LIA location and size of glaciers from the presence of a terminal moraine, the presence of lateral moraines, and a size requirement of 0.01 km^2. 
+Little Ice Age (LIA) moraines were digitized primarily from 1m resolution LiDAR imagery (CITE, 2014) with a hillshade applied (QGIS), and aided by NAIP imagery from 2019 (CITE) and a combined imagery product from Google. 
+No LIA moraines have been dated in the park to our knowledge; however, there is little ambiguity between LIA and LGM moraines: LIA moraines are found far upvalley of dated moraines from the Last Glacial Maximum  [@doi:10.1016/j.quascirev.2007.12.005]. 
+In the Teton Range, LGM deglaciation began around 13.8ka and finished by 11.5ka according to lake sediment records [@doi:10.1016/j.quascirev.2016.02.024]. 
+
+[sentence about early Teton glacier research]
+[sentence about Frithof Fryxell's paper]
+[sentence about fred ayers 1930s photography]
+[sentence abut reed paper discussion]
+
+We initially followed the methods outlined in Martin-Mikle 2019 [@doi:10.1080/15230430.2019.1634443], delimiting the LIA location and size of glaciers from the presence of a terminal moraine, the presence of lateral moraines, and a size requirement of 0.01 km^2, following previous research (e.g. [@doi:10.1080/15230430.2019.1634443]). 
 However, not all of the 11 named glaciers fit this criteria; these are outlined in light red in Figure 1. Because of their relevance to park history and visitation, they are included here but with the caveat that their size may limit the relevance of our analysis.
-Trimelines were only visible for... We estimated minimum and maximum extent using the GlaRe [@doi:10/f827s2] package in ArcGIS Pro to reconstruct ice extent in the LIA.
+
+The terminal moraines of Teton Glacier, Schoolroom Glacier, and West Triple are classic crested moraines. 
+Others, like Peterson, Teepe, Falling Ice, and Middle Teton, are much less distinct and often untraceable, due to washout, steep slopes, and other indistinct processes. 
+
+
+Peterson's terminal moraine seems to have been almost completely washed away.
 
 ==add note about trimlines, etc==
 
@@ -198,7 +219,24 @@ VOLTA[@doi:10/f8rdwd], which employs an augmented slab model, was used to remove
 
 ## Digital Elevation Model timeseries
 
-Digital Elevation Models were generated using HIPP and HSFM (CITE).
+Digital Elevation Models were generated using HIPP (CITE) and HSFM (CITE). 
+These were then differenced to obtain a time series of ice volume change, which was compared to a) modeled change and b) change in aerial extent.
+
+HIPP was used to download and pre-process aerial imagery from USGS's Earth Explorer tool. 
+Using the Earth Explorer API, we downloaded all a) aerial imagery single frame, b) NAIP, c) NAPP, d) NHAP, and e) declassified spy satellite data between 1950 and present day taken in August or September to minimize snow coverage.
+Each batch of photos was then separated by roll and year. 
+Fiduciaries were extracted from each set of imagery.
+A specific point in each fiduciary was then identified in each image; each image included four to eight fiduciaries. 
+These were used to find the center point of the image, and each image was cropped around the center point so that images in each roll and year were identical sizes.
+
+HSFM used these cropped images for generating the digital elevation models and orthoimages. 
+[metashape pro extracted point clouds, etc]
+[asp stitched rotated, stretched, etc images together]
+[rgl and nlcd used to mask glaciers and vegetation]
+[how does the dem deal with these points after masking?]
+
+
+
 
 ## In-Situ Data
 
@@ -207,25 +245,27 @@ MTG was chosen as the benchmark glacier for the Tetons in 2016 owing to its size
 
 Surveys taken across MTG include accumulation surveys through snow pits and snow probe surveys, ablation stake installation and monitoring, and most recently, ground-penetrating radar. 
 Additionally, park scientists and climbing rangers perform annual fall surface elevation surveys of MTG.
-While most of the focus of the glacier monitoring program in the Tetons is on Middle Teton Glacier, timelapse cameras and air temperature sensors are also installed at sites near four other glaciers across the park.
+While the glacier monitoring program primarily focuses on Middle Teton Glacier, timelapse cameras and air temperature sensors are also installed at sites near four other glaciers across the park.
 
 ### Accumulation surveys
 To estimate seasonal accumulation, the park collected snow probe measurements and digs two snow pits at the end of the accumulation season (late May - early June) in 2019, 2020, and 2021. 
-Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines were separated by ~50m as conditions allowed. 
-Surveyors noted the type of transition as either firn or glacial ice. 
-In addition, two snow pits are dug down to the previous year's summer surface at the location of the highest and lowest ablation stakes. 
+Snow probe measurements are taken at 25 m spacing along lines perpendicular to glacier flow/steepness; lines are separated by ~50m as conditions allow. 
+Surveyors note the type of transition as either firn or glacial ice. 
+
+In addition, two snow pits are dug down to the previous year's summer surface at the location of the highest- and lowest- elevation ablation stakes. 
 Snow density is sampled every 0.5 m depth to the bottom of the pit using a 500cc density cutter and a scale. 
 
 ### Ablation Stake Surveys
 Ablation stakes are deployed yearly at the same time as the accumulation surveys on Middle Teton Glacier. 
 One-meter sections of PVC pipe are pre-cut, labeled with the site identifier, year, depth, and stake section number, then connected via accessory cord.
-The appropriate length for an ablation stake was site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation and an additional two meters for anchoring; most stakes were 10-13 m in length. 
-A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] was used to drill the hole for installing the stakes. 
+The appropriate length for an ablation stake is site-specific, determined by adding the amount of accumulation measured by snow probe to the maximum estimated ice ablation, plus an additional two meters for anchoring.
+Most stakes are 10-13 m in length. 
+A Heucke steam drill [@doi:10.1111/j.0435-3676.1999.00088.x] is used to drill the hole for installing the stakes. 
 Stakes were installed in late May/early June in 2019, 2020, and 2021 to measure surface ablation and surface velocity and their locations were marked using a handheld Trimble Geo 7X (CITE). 
-Most sites were revisited twice throughout the season to measure ablation and take a GPS reading. 
-Sites were visited in subsequent seasons if stakes were located. 
+Most ablation stake sites are revisited twice throughout the season to measure ablation and take a GPS reading. 
+If the stakes can be located, they are marked in susbequent seasons; this is used to give us point measurements of surface velocity.
   
-The locations of the stakes can be found in Figure 1, and the surface velocities and ablation measurements are in Figure 2.
+The locations of the stakes can be found in Figure 3a, and the surface velocities and ablation measurements are in Figure 3b.
 (ADD how surface velocities are calculated).
 Meltwater equivalent from snow and ice is derived from the ablation stake readings and the accumulation survey. 
 The difference in stake readings between site visits provide a melt depth since last visit, while snow probe measurements provide depth of snow and depth to firn/glacial ice.
@@ -245,7 +285,7 @@ Four team members participate in the survey; two at higher elevations and two at
 
 Post collection, the surface elevation data is processed in GPS Pathfinder Office. 
 A real-time differential correction is applied to the data using the National Geodetic Survey site in Driggs, ID (IDDR) for 2016-2018 and 2020-2021. 
-For the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR was not available.
+For the 2019 survey data, we used the National Geodetic Survey site in Kelly, WY (TSWY) as data from IDDR is not available.
 All GPS data uses the UTM 12 North NAD 1983 coordinate reference system unless otherwise specified.
 
 ==(note this paragraph may change: updating protocol to re-process in Matlab)==
@@ -278,16 +318,16 @@ The loggers are programmed to record data once an hour pre-deployment and mounte
 Following Nye (1965) and Florentine et al. (2019), we use a simple slab model to estimate the ice thickness,
 
 $$ h = \frac{\tau}{f \rho g sin\alpha}, $$
-where $h$ is the thickness of the glacier, $\tau$ is the basal shear stress, $f$ is a shape factor ([@doi:10.3189/S0022143000018670]), $\rho$ is the density of ice (917 kg m$^{-2}$), and $\alpha$ is the surface slope of the glacier. 
+where $h$ is the thickness of the glacier, $\tau$ is the basal shear stress, $f$ is a shape factor [@doi:10.3189/S0022143000018670], $\rho$ is the density of ice (917 kg m$^{-2}$), and $\alpha$ is the surface slope of the glacier. 
 
-This relationship assumes that the driving and yield stress are equal. 
+This relationship assumes that the driving and yield stress scale according to the shape factor (are equal if $f$=1). 
 If this is true, ice surfaces with low surface angles must have large driving stresses, e.g. be very thick. 
 But once a glacier thins substantially and stops flowing, which occurs near the terminus of many Teton glaciers - this relationship fails to hold. 
+This is a known problem; most approaches get around this issue by setting a minimum slope and ignoring areas of ice that exists below it.
 While this model is used widely as a simple tool for estimating the ice thickness of alpine glaciers [@doi:10.5194/tc-11-949-2017], this caveat is an important one. 
 As alpine glaciers continue to thin, this issue will only become more pronounced. 
 
-This model was extended to account for simplified topography ([@doi:10.3189/S0022143000018670]), side drag ([@doi:10.1029/2011JF002104]), and variable basal shear stresses ([@doi10.3189/S0260305500015834]). 
-
+This model was extended to account for simplified topography [@doi:10.3189/S0022143000018670], side drag [@doi:10.1029/2011JF002104], and variable basal shear stresses [@doi:10.3189/S0260305500015834]. 
 
 
 
@@ -301,18 +341,34 @@ Figure {@fig: MTG201621}a shows the surface elevation change between 2016 and 20
 
 
 
+## Discussion
+
+## Model Choice
+
+We use a simple slab model to estimate glacier thickness, using Nye's 1952 formulation. 
+Since the 1950s, this shear-stress-based model has been expanded to include variable basal shear stress, valley-wall drag, a shape factor, and more.
 
 
-We use a simple slab model to estimate glacier thickness, using Nye's 1952 formulation. Since the 1950s, this shear-stress-based model has been expanded to include variable basal shear stress, valley-wall drag, a shape factor, and so on. 
 
 Instead of absolute ice thickness estimates, we aim to investigate change in ice thickness. 
-Lacking surface mass balance measurements (few measurements taken, except, as outlined above, between 2016 and the present day), surface velocity (these glaciers are, in general, too small for most satellite data to be used to track surface features, so the only measured velocity data is from ablation stakes left on Middle Teton Glacier between 2019 and the present day), and weather data or reanalysis (sparse measurements in the Tetons likely do not reflect the surface mass additions of avalanching and wind-blown snow), we are left with glacial outlines and DEMs (LiDAR and HSFM, see Sections XX and XX respectively) as the only source of information for our models. 
-The simplest approach to generating ice thickness estimates of alpine glaciers is an area-scaling approach (see Bahr 2015 for a review). 
-With digital elevation models from HSFM and LiDAR, we can go further with information about surface slope and the surrounding topography.
-In Nye 1952, we obtain the approach used in this paper, which assumes a perfectly plastic model with no topographical influence.
-Farinotti et al. (2017) showed in their intercomparison project that the inclusion of more data (e.g. surface velocities, SMB measurements) did not, on average, improve modeled glacier thickness estimates. 
-The models that performed the best and only used OL and DEM information included Farinotti et al. 2009 (the ITEM model), Huss and Farinotti 2014 (HF-model), Linsbauer et al. (2014), and Frey et al. (2014), two mass-conserving-based and two shear-stress-based approaches respectively. 
+Lacking surface mass balance measurements (few measurements taken, except, as outlined above, between 2016 and the present day), surface velocity (these glaciers are, in general, too small for most satellite data to be used to track surface features, so the only measured velocity data is from ablation stakes left on Middle Teton Glacier between 2019 and the present day), and weather data or reanalysis (sparse measurements in the Tetons likely do not reflect the surface mass additions of avalanching and wind-blown snow), we are left with glacial outlines and DEMs (LiDAR and HSFM, see Sections XX and XX respectively) as the only source of information for input into our models. 
+The simplest approach to generating ice thickness estimates of alpine glaciers is an area-scaling approach (see Bahr 2015 [@doi:10.1002/2014RG000470] for an in-depth review). 
+However, in general, area-volume scaling takes characteristic values from across sets of glaciers (under similar conditions), and is not generally applied to individual glaciers [@doi:10.1002/2014RG000470].
+With only 11 glaciers, we cannot confidently generate a range-wide scaling.
+Additionally, the digital elevation models from HSFM and LiDAR provide us with more information about surface slope and the surrounding topography.
+Farinotti et al. (2017) [@doi:10.5194/tc-11-949-2017] identified five general modeling approaches for estimating ice thickness: minimization-based, mass conserving, shear-stress based, velocity based, and alternate (e.g. neural network) approaches. 
+Of these, the two approaches that only require glacial outlines and DEMs as input are the mass-conservation- and shear-stress-based models. 
+Two models from each approach fit our criteria: Farinotti et al. 2009 [@doi:10.3189/002214309788816759] (the ITEM model) and an extension of this model, and Huss and Farinotti 2014 [@doi:10.1029/2012JF002523] (HF-model), GlabTop by Linsbauer et al. (2012) [@doi:10.1029/2011JF002313] and GlabTop2 by Frey et al. (2014) [@doi:10.5194/tc-8-2313-2014].
+Huss and Farinotti (2014) and Frey et al. (2014) extend their counterparts without fundamentally changing the physics, so we considered these as possible approaches.
+We added the simple Nye 1952 approach with the Nye 1965 scaling factor, and Clarke's approach, to the pool of possibilities.
+
+showed in their intercomparison project that the inclusion of more data (e.g. surface velocities, SMB measurements) did not, on average, improve modeled glacier thickness estimates. 
+The models that performed the best and only used OL and DEM information included two mass-conserving models and two shear-stress-based models: Farinotti et al. 2009 [@doi:10.3189/002214309788816759] (the ITEM model) and an extension of this model, and Huss and Farinotti 2014 [@doi:10.1029/2012JF002523] (HF-model), GlabTop by Linsbauer et al. (2012) [@doi:10.1029/2011JF002313] and GlabTop2 by Frey et al. (2014) [@doi:10.5194/tc-8-2313-2014].
 Huss and Farinotti (2014) and Frey et al. (2014) extend their counterparts without fundamentally changing the physics, so we considered these two possible approaches.
+
+
+
+In Nye 1952, we obtain the approach used in this paper, which assumes a perfectly plastic model with no topographical influence.
 
 
 
@@ -320,6 +376,13 @@ Huss and Farinotti (2014) and Frey et al. (2014) extend their counterparts witho
 ## Conclusions
 
 
+
+## Acknowledgements
+This work wouldn't have happened without Americorp's Scientist-in-Parks program, which provided funding for Elizabeth Case to work in the Grand Teton National Park in the summer of 2021. She was funded during the development of this manuscript on grant number [XXX]. Many thanks to Aazia Taylor, Justin Culman, and Joey Nadeau, who helped with the fieldwork and were overall a delight to work with. Carly Cody and Joerg Schaefer advised on methods used for moraine and trimline identification. 
+
+## Author contributions
+Elizabeth Case compiled and analyzed the all data and wrote the bulk of the manuscript. Joni Gore led field surveys and made valuable additions to the study area and in-situ mapping sections. Simeon Caskey led field survey design, especially early in the glacier monitoring program. Jonny Kingslake provided valuable input on the model design, as well as in writing and editing the manuscript. Dan McGrath led the GPR data collection and processing, and advised on the scope of the study. Friedrich Knuth wrote the HIPP and HSFM packages, and was invaluable in the generation of the DEMs. 
+## 
 
 ## References {.page_break_before}
 

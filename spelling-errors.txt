@@ -3,6 +3,7 @@ Absaroka
 adipiscing
 aliqua
 aliquip
+ALS
 Americorp’s
 amet
 anim
@@ -25,6 +26,7 @@ deglaciation
 DEMs
 deserunt
 differenced
+differencing
 Doherty
 dolore
 Driggs
@@ -52,6 +54,7 @@ GPR
 gridpoint
 gridpoints
 GRTE
+GRTE’s
 Heucke
 hillshade
 HIPP
@@ -71,6 +74,7 @@ Kingslake
 labore
 laboris
 laborum
+Leica
 LGM
 LIA
 LiDAR
@@ -78,10 +82,11 @@ Linsbauer
 Lorem
 magna
 McGrath
-meltwater
+Meltwater
 metashape
 Mikle
 mollit
+MPiA
 mwe
 NAD
 Nadeau
@@ -120,7 +125,7 @@ susbequent
 Teepe
 tempor
 Teton
-Timelapse
+timelapse
 timeseries
 Trimble
 trimline
